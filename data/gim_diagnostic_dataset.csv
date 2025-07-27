@@ -1,0 +1,1001 @@
+ID,Code DTC,Description du problème,Root Cause Description,Composant concerné,PCA attendue,Statut GIM
+1,P0950,Door ajar warning light on constantly,Sunroof motor failure,Electrical System,Replace ignition coil in cylinder 1,Non résolu
+2,P0650,Door ajar warning light on constantly,Sunroof motor failure,Horn System,Perform wheel alignment,En traitement
+3,P0A80,"Check engine light on, no noticeable symptoms",Wheel bearing worn out,Inverter,"Locate and repair refrigerant leak, then recharge AC system",En traitement
+4,P0606,Engine knocking sound,Faulty horn relay,Lighting System,Clean blind spot sensor,En traitement
+5,P0335,Unusual tire wear,Wheel bearing worn out,Trunk System,Replace wheel bearing,En traitement
+6,P0770,Sunroof stuck open,Actuator for trunk release faulty,Steering,Adjust tire pressure,En traitement
+7,P0920,Rearview camera blurry,Loose battery terminal connection,Navigation System,Clean rearview camera lens,Résolu
+8,P0446,Brake system warning light,Clogged fuel injector and worn spark plugs,Interior Electronics,Replace trunk release actuator,En traitement
+9,P0810,Fuel gauge inaccurate,Turbocharger seal failure,MG1,Replace ignition coil in cylinder 1,Non résolu
+10,P0840,Horn not functioning,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",AC System,Replace inverter cooling pump and refill coolant,Résolu
+11,P0715,Fuel gauge inaccurate,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Brakes,"Locate and repair refrigerant leak, then recharge AC system",Non résolu
+12,P1500,Parking assist system error,Connecting rod bearing wear,Transmission,Replace horn relay,En traitement
+13,P0900,"Check engine light on, no noticeable symptoms",Turbocharger seal failure,Engine,Replace oxygen sensor and clear fault codes,En traitement
+14,P0446,Hybrid system malfunction,Transmission clutch friction element stuck causing shifting issues,Cooling System,Replace turbocharger,Non résolu
+15,P0171,Battery overheats after 20 min of driving,Loose battery terminal connection,Cooling System,Replace heated seat element,Non résolu
+16,P0325,Horn not functioning,GPS antenna faulty,MG2,Clean parking sensor,Résolu
+17,P0505,Engine knocking sound,Door latch sensor faulty,MG1,Update ECU software and reset hybrid system,En traitement
+18,P0455,Horn not functioning,Sunroof motor failure,Tires,Replace faulty battery modules and rebalance the hybrid battery pack,En traitement
+19,P0790,Battery overheats after 20 min of driving,Faulty inverter cooling pump causing insufficient coolant circulation,Hybrid Battery,Replace power window motor,Résolu
+20,P0A93,Hybrid system malfunction,Sunroof motor failure,MG1,Replace inverter cooling pump and refill coolant,Non résolu
+21,P0420,Loud clicking noise during hybrid mode switch,Battery internal resistance too high causing voltage imbalance,MG1,Clean battery terminals,Non résolu
+22,P0850,Steering wheel vibration at high speed,Alignment issues,Exhaust System,Clean blind spot sensor,Résolu
+23,P0135,Heated seats not working,Parking sensor dirty,Interior Electronics,Replace power window motor,Non résolu
+24,P1600,"Vehicle not ready, hybrid system warning",Rearview camera lens dirty,Engine,Replace wiper fuse,Non résolu
+25,P0730,Unusual tire wear,Radar sensor blocked,Interior Electronics,Clean rearview camera lens,Non résolu
+26,P0910,Brake system warning light,Sunroof motor failure,Exhaust System,Replace door latch sensor,En traitement
+27,P0135,Lane departure warning system fault,Alignment issues,Lighting System,Replace door latch sensor,Résolu
+28,P0980,Blind spot monitor warning,Refrigerant leak in AC system,Safety Systems,Replace oxygen sensor and clear fault codes,Non résolu
+29,P1000,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Transmission clutch friction element stuck causing shifting issues,Cooling System,Replace ignition coil in cylinder 1,Résolu
+30,P0805,Power windows not responding,Actuator for trunk release faulty,Cooling System,Replace clutch friction element and recalibrate transmission,Non résolu
+31,P0A80,Reduced power and acceleration,Catalytic converter efficiency below threshold,Cooling System,Replace door latch sensor,Résolu
+32,P07A3,Loud clicking noise during hybrid mode switch,Blown fuse in wiper circuit,Body Control Module,Increase MG1 nut torque spec from 353Nm to 398Nm,Non résolu
+33,P0870,Horn not functioning,Wheel bearing worn out,Sunroof System,Clean parking sensor,Non résolu
+34,P1600,Horn not functioning,GPS antenna faulty,Camera Systems,Clean blind spot sensor,En traitement
+35,P0980,Trunk not opening,Battery internal resistance too high causing voltage imbalance,Body Control Module,Replace connecting rod bearings,Non résolu
+36,P0750,AC not blowing cold air,Communication loss between ECU and hybrid battery module,Exhaust System,Increase MG1 nut torque spec from 353Nm to 398Nm,Non résolu
+37,P0500,Battery overheats after 20 min of driving,Blind spot sensor obstructed,Brakes,Replace clutch friction element and recalibrate transmission,Non résolu
+38,P0101,Navigation system not working,Loose battery terminal connection,Trunk System,Replace connecting rod bearings,Résolu
+39,P0900,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Door latch sensor faulty,Lighting System,Replace turbocharger,En traitement
+40,P0500,Power windows not responding,Lane keeping assist camera misaligned,Electrical System,Replace connecting rod bearings,Non résolu
+41,P0715,Heated seats not working,Faulty inverter cooling pump causing insufficient coolant circulation,Suspension,Replace faulty battery modules and rebalance the hybrid battery pack,Non résolu
+42,P0900,Trunk not opening,Improper tire inflation,AC System,Replace faulty battery modules and rebalance the hybrid battery pack,Résolu
+43,P1700,Steering wheel vibration at high speed,Sunroof motor failure,Steering,Replace thermostat,Non résolu
+44,P0446,Engine knocking sound,Blind spot sensor obstructed,Engine,Replace oxygen sensor and clear fault codes,Résolu
+45,P07AD,"Engine misfire, rough idle",Faulty horn relay,Safety Systems,Replace wheel bearing,Non résolu
+46,P0820,Battery overheats after 20 min of driving,Wheel bearing worn out,ECU,Clean battery terminals,Résolu
+47,P0101,Heated seats not working,Ignition coil failure in cylinder 1,Hybrid Battery,Replace spark plugs and clean fuel injectors,En traitement
+48,P0325,Engine knocking sound,Refrigerant leak in AC system,Engine,Replace heated seat element,Résolu
+49,P0446,"Check engine light on, no noticeable symptoms","Oxygen sensor malfunction, leading to incorrect fuel mixture",Electrical System,Replace faulty battery modules and rebalance the hybrid battery pack,En traitement
+50,P0455,Lane departure warning system fault,Faulty horn relay,AC System,Replace power window motor,Non résolu
+51,P0920,Door ajar warning light on constantly,Ignition coil failure in cylinder 1,Body Control Module,Replace clutch friction element and recalibrate transmission,Résolu
+52,P0760,Parking assist system error,Wheel bearing worn out,Lighting System,Replace wiper fuse,En traitement
+53,P0970,Headlights flickering,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Camera Systems,Replace inverter cooling pump and refill coolant,Résolu
+54,P0606,Power windows not responding,Rearview camera lens dirty,Trunk System,Replace sunroof motor,En traitement
+55,P1700,Brake system warning light,Door latch sensor faulty,Electrical System,Replace sunroof motor,Non résolu
+56,P0990,Power windows not responding,Door latch sensor faulty,Inverter,Replace ignition coil in cylinder 1,En traitement
+57,P03AF,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Rearview camera lens dirty,Steering,Increase MG1 nut torque spec from 353Nm to 398Nm,Non résolu
+58,P0860,Navigation system not working,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Camera Systems,Replace wiper fuse,Non résolu
+59,P0325,Sunroof stuck open,"Thermostat stuck open, engine running cold",MG2,Replace faulty battery modules and rebalance the hybrid battery pack,Non résolu
+60,P0870,Door ajar warning light on constantly,Improper tire inflation,Interior Electronics,Clean rearview camera lens,Non résolu
+61,P0220,Heated seats not working,GPS antenna faulty,ECU,Replace GPS antenna,Non résolu
+62,P0805,Battery overheats after 20 min of driving,Faulty horn relay,Body Control Module,Replace GPS antenna,Non résolu
+63,P0133,Engine knocking sound,Connecting rod bearing wear,Interior Electronics,Replace trunk release actuator,Non résolu
+64,P1100,Wipers not working,Faulty inverter cooling pump causing insufficient coolant circulation,Suspension,Replace connecting rod bearings,En traitement
+65,P0840,Sunroof stuck open,Blown fuse in wiper circuit,Cooling System,Replace turbocharger,En traitement
+66,P0940,Hybrid system malfunction,Refrigerant leak in AC system,Electrical System,Replace wheel bearing,Résolu
+67,P0910,Unusual tire wear,Wheel bearing worn out,Exhaust System,Replace turbocharger,Résolu
+68,P0560,Parking assist system error,GPS antenna faulty,Trunk System,Clean blind spot sensor,Non résolu
+69,P0172,Vehicle pulls to one side,Refrigerant leak in AC system,Interior Electronics,Replace inverter cooling pump and refill coolant,Non résolu
+70,P0970,"Vehicle not ready, hybrid system warning",Clogged fuel injector and worn spark plugs,Navigation System,Replace thermostat,Résolu
+71,P0960,Power windows not responding,Heater element failure in seat,Cooling System,Perform wheel alignment,En traitement
+72,P0860,Excessive exhaust smoke,Door latch sensor faulty,Body Control Module,Perform wheel alignment,Résolu
+73,P0301,Loud clicking noise during hybrid mode switch,Transmission clutch friction element stuck causing shifting issues,AC System,Replace trunk release actuator,En traitement
+74,P0870,"Engine misfire, rough idle",Rearview camera lens dirty,Navigation System,Replace thermostat,Résolu
+75,P0730,Rearview camera blurry,Refrigerant leak in AC system,Inverter,Replace horn relay,Résolu
+76,P0780,Fuel gauge inaccurate,Battery internal resistance too high causing voltage imbalance,Horn System,Replace thermostat,En traitement
+77,P0172,Navigation system not working,Clogged fuel injector and worn spark plugs,Sunroof System,Replace oxygen sensor and clear fault codes,Non résolu
+78,P0715,Trunk not opening,"Thermostat stuck open, engine running cold",Cooling System,Recalibrate lane keeping assist camera,Non résolu
+79,P0910,Power windows not responding,GPS antenna faulty,Wiper System,Replace heated seat element,En traitement
+80,P0650,Unusual tire wear,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Engine,Replace GPS antenna,En traitement
+81,P0133,Unusual tire wear,Heater element failure in seat,Sunroof System,Increase MG1 nut torque spec from 353Nm to 398Nm,En traitement
+82,P0325,Hybrid system malfunction,Sunroof motor failure,Suspension,Clean rearview camera lens,En traitement
+83,P0740,Horn not functioning,Faulty horn relay,Body Control Module,Replace faulty battery modules and rebalance the hybrid battery pack,Non résolu
+84,P07A3,Lane departure warning system fault,Wheel bearing worn out,Transmission,Replace spark plugs and clean fuel injectors,Résolu
+85,P0601,Brake system warning light,Catalytic converter efficiency below threshold,Transmission,Replace thermostat,Résolu
+86,P0805,Trunk not opening,Alignment issues,Exhaust System,Replace turbocharger,Non résolu
+87,P0101,Door ajar warning light on constantly,"Thermostat stuck open, engine running cold",Cooling System,Replace door latch sensor,En traitement
+88,P0101,"Check engine light on, no noticeable symptoms","Oxygen sensor malfunction, leading to incorrect fuel mixture",AC System,Perform wheel alignment,En traitement
+89,P1000,Adaptive cruise control unavailable,Faulty inverter cooling pump causing insufficient coolant circulation,MG2,Replace clutch friction element and recalibrate transmission,Résolu
+90,P0860,Parking assist system error,Heater element failure in seat,Suspension,Replace wheel bearing,En traitement
+91,P0650,Parking assist system error,Wheel bearing worn out,Brakes,Replace spark plugs and clean fuel injectors,Résolu
+92,P0930,Parking assist system error,Radar sensor blocked,Sunroof System,Replace oxygen sensor and clear fault codes,En traitement
+93,P0890,Loud clicking noise during hybrid mode switch,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Horn System,Replace spark plugs and clean fuel injectors,Résolu
+94,P03AF,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Door latch sensor faulty,Steering,Replace heated seat element,Non résolu
+95,P1200,Wipers not working,Transmission clutch friction element stuck causing shifting issues,Electrical System,Clean blind spot sensor,Résolu
+96,P0950,Vehicle pulls to one side,Turbocharger seal failure,Driver Assistance Systems,Replace wiper fuse,Résolu
+97,P0101,AC not blowing cold air,Blown fuse in wiper circuit,Engine,Replace spark plugs and clean fuel injectors,Non résolu
+98,P0970,Vehicle pulls to one side,Radar sensor blocked,MG1,Clean rearview camera lens,En traitement
+99,P0133,Excessive exhaust smoke,Actuator for trunk release faulty,Sunroof System,Replace catalytic converter,Non résolu
+100,P0455,Door ajar warning light on constantly,Connecting rod bearing wear,MG2,Increase MG1 nut torque spec from 353Nm to 398Nm,En traitement
+101,P0335,Unusual tire wear,Parking sensor dirty,Lighting System,Replace door latch sensor,En traitement
+102,P0990,Steering wheel vibration at high speed,Alignment issues,Cooling System,Replace GPS antenna,Non résolu
+103,P1100,Steering wheel vibration at high speed,Turbocharger seal failure,MG2,Replace thermostat,Résolu
+104,P0620,Power windows not responding,Battery internal resistance too high causing voltage imbalance,Suspension,Replace catalytic converter,Non résolu
+105,P0930,Adaptive cruise control unavailable,Alignment issues,Safety Systems,Replace inverter cooling pump and refill coolant,Résolu
+106,P0740,Parking assist system error,Improper tire inflation,ECU,Replace horn relay,Non résolu
+107,P0750,"Engine misfire, rough idle",Heater element failure in seat,Sunroof System,Replace heated seat element,Non résolu
+108,P1700,Battery overheats after 20 min of driving,Faulty inverter cooling pump causing insufficient coolant circulation,Camera Systems,Increase MG1 nut torque spec from 353Nm to 398Nm,Résolu
+109,P0830,Fuel gauge inaccurate,Sunroof motor failure,Camera Systems,Replace connecting rod bearings,En traitement
+110,P1803-00,Door ajar warning light on constantly,Actuator for trunk release faulty,Driver Assistance Systems,Update ECU software and reset hybrid system,Non résolu
+111,P0980,Battery overheats after 20 min of driving,Connecting rod bearing wear,Engine,Replace power window motor,Non résolu
+112,P07A3,Sunroof stuck open,Rearview camera lens dirty,Wiper System,Adjust tire pressure,En traitement
+113,P0113,Brake system warning light,Improper tire inflation,Sunroof System,Replace door latch sensor,En traitement
+114,P0820,Loud clicking noise during hybrid mode switch,Turbocharger seal failure,Navigation System,Clean radar sensor,Non résolu
+115,P1700,"Check engine light on, no noticeable symptoms",Heater element failure in seat,Navigation System,Replace thermostat,Résolu
+116,P0401,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Communication loss between ECU and hybrid battery module,Driver Assistance Systems,Clean blind spot sensor,En traitement
+117,P0970,Battery overheats after 20 min of driving,Connecting rod bearing wear,Navigation System,Update ECU software and reset hybrid system,En traitement
+118,P0122,Reduced power and acceleration,Battery internal resistance too high causing voltage imbalance,Engine,Replace oxygen sensor and clear fault codes,Résolu
+119,P07AD,Engine knocking sound,Motor for power window faulty,Suspension,Clean parking sensor,Non résolu
+120,P1803-00,Vehicle pulls to one side,Blown fuse in wiper circuit,Wiper System,Clean parking sensor,En traitement
+121,P0980,Navigation system not working,Clogged fuel injector and worn spark plugs,Lighting System,Replace GPS antenna,Non résolu
+122,P0850,Power windows not responding,Transmission clutch friction element stuck causing shifting issues,Engine,Replace connecting rod bearings,En traitement
+123,P0850,Door ajar warning light on constantly,Actuator for trunk release faulty,Inverter,Replace GPS antenna,Résolu
+124,P0101,Loud clicking noise during hybrid mode switch,"Thermostat stuck open, engine running cold",Safety Systems,Adjust tire pressure,Non résolu
+125,P0101,Fuel gauge inaccurate,Lane keeping assist camera misaligned,Lighting System,Clean parking sensor,Non résolu
+126,P0705,Wipers not working,Catalytic converter efficiency below threshold,Engine,Replace thermostat,Non résolu
+127,P0790,Vehicle pulls to one side,Parking sensor dirty,Safety Systems,Replace clutch friction element and recalibrate transmission,Non résolu
+128,P0770,Horn not functioning,Faulty horn relay,Camera Systems,Replace thermostat,Non résolu
+129,P0805,"Vehicle not ready, hybrid system warning",Sunroof motor failure,Safety Systems,Replace trunk release actuator,En traitement
+130,P0810,Steering wheel vibration at high speed,Faulty horn relay,AC System,Replace turbocharger,Non résolu
+131,P0830,Wipers not working,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Body Control Module,Replace spark plugs and clean fuel injectors,Non résolu
+132,P0560,Brake system warning light,Faulty inverter cooling pump causing insufficient coolant circulation,Inverter,Replace wiper fuse,Résolu
+133,P0730,Horn not functioning,Connecting rod bearing wear,AC System,Replace door latch sensor,Résolu
+134,P0980,Heated seats not working,Clogged fuel injector and worn spark plugs,Wiper System,Update ECU software and reset hybrid system,Résolu
+135,P0980,Sunroof stuck open,Motor for power window faulty,Suspension,Clean parking sensor,En traitement
+136,P07A3,Parking assist system error,Sunroof motor failure,Wiper System,Replace thermostat,Non résolu
+137,P0940,Brake system warning light,Blind spot sensor obstructed,Brakes,Update ECU software and reset hybrid system,Non résolu
+138,P0720,Brake system warning light,Refrigerant leak in AC system,Inverter,Update ECU software and reset hybrid system,En traitement
+139,P0900,Navigation system not working,Door latch sensor faulty,Interior Electronics,Replace power window motor,Non résolu
+140,P0840,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Wheel bearing worn out,Electrical System,Replace sunroof motor,En traitement
+141,P0920,Door ajar warning light on constantly,Connecting rod bearing wear,Engine,Replace inverter cooling pump and refill coolant,Non résolu
+142,P0620,Fuel gauge inaccurate,Door latch sensor faulty,MG2,Replace heated seat element,Non résolu
+143,P0870,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Battery internal resistance too high causing voltage imbalance,AC System,Update ECU software and reset hybrid system,Résolu
+144,P0890,Brake system warning light,GPS antenna faulty,Exhaust System,Replace heated seat element,Résolu
+145,P0505,Horn not functioning,Clogged fuel injector and worn spark plugs,Body Control Module,Replace door latch sensor,Résolu
+146,P0860,Battery overheats after 20 min of driving,"Thermostat stuck open, engine running cold",ECU,Replace oxygen sensor and clear fault codes,Non résolu
+147,P0446,Fuel gauge inaccurate,Actuator for trunk release faulty,Tires,Replace clutch friction element and recalibrate transmission,Non résolu
+148,P1600,Power windows not responding,GPS antenna faulty,Camera Systems,Replace wheel bearing,En traitement
+149,P0990,Steering wheel vibration at high speed,Sunroof motor failure,Camera Systems,Replace inverter cooling pump and refill coolant,Résolu
+150,P0715,Vehicle pulls to one side,Battery internal resistance too high causing voltage imbalance,Transmission,Replace heated seat element,En traitement
+151,P0505,Heated seats not working,Ignition coil failure in cylinder 1,Tires,Clean battery terminals,En traitement
+152,P0325,Headlights flickering,Turbocharger seal failure,Lighting System,Perform wheel alignment,En traitement
+153,P0420,Hybrid system malfunction,Battery internal resistance too high causing voltage imbalance,MG1,Replace wiper fuse,Non résolu
+154,P0620,"Engine misfire, rough idle",Connecting rod bearing wear,Wiper System,Replace heated seat element,Non résolu
+155,P0101,Loud clicking noise during hybrid mode switch,GPS antenna faulty,Engine,Replace turbocharger,Résolu
+156,P0650,Horn not functioning,Clogged fuel injector and worn spark plugs,Interior Electronics,Replace oxygen sensor and clear fault codes,En traitement
+157,P0770,Heated seats not working,Alignment issues,Navigation System,Replace door latch sensor,Résolu
+158,P0620,Blind spot monitor warning,GPS antenna faulty,Lighting System,Update ECU software and reset hybrid system,En traitement
+159,P0820,"Vehicle not ready, hybrid system warning",Faulty horn relay,MG1,Replace heated seat element,Résolu
+160,P0720,Fuel gauge inaccurate,Blown fuse in wiper circuit,Driver Assistance Systems,Clean parking sensor,Résolu
+161,P0440,AC not blowing cold air,Radar sensor blocked,Steering,Replace inverter cooling pump and refill coolant,En traitement
+162,P0440,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Blown fuse in wiper circuit,MG1,Replace connecting rod bearings,En traitement
+163,P0420,Sunroof stuck open,Ignition coil failure in cylinder 1,Safety Systems,Replace turbocharger,Non résolu
+164,P0870,Door ajar warning light on constantly,GPS antenna faulty,Driver Assistance Systems,Replace connecting rod bearings,En traitement
+165,P0760,Horn not functioning,Communication loss between ECU and hybrid battery module,Tires,Clean radar sensor,En traitement
+166,P0220,Trunk not opening,Blind spot sensor obstructed,Cooling System,Clean blind spot sensor,Non résolu
+167,P0700,Fuel gauge inaccurate,Clogged fuel injector and worn spark plugs,Brakes,Recalibrate lane keeping assist camera,Résolu
+168,P0601,Headlights flickering,Blown fuse in wiper circuit,Exhaust System,Replace heated seat element,Résolu
+169,P0830,Vehicle pulls to one side,GPS antenna faulty,Trunk System,Replace wheel bearing,En traitement
+170,P0970,Rearview camera blurry,Improper tire inflation,Inverter,Increase MG1 nut torque spec from 353Nm to 398Nm,Non résolu
+171,P1500,Trunk not opening,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Hybrid Battery,Replace connecting rod bearings,Résolu
+172,P0980,Vehicle pulls to one side,Battery internal resistance too high causing voltage imbalance,Steering,Replace faulty battery modules and rebalance the hybrid battery pack,Résolu
+173,P07A3,Power windows not responding,Loose battery terminal connection,Driver Assistance Systems,Perform wheel alignment,Non résolu
+174,P0830,Hybrid system malfunction,Radar sensor blocked,Cooling System,Clean radar sensor,Résolu
+175,P0910,"Check engine light on, no noticeable symptoms",Battery internal resistance too high causing voltage imbalance,Transmission,Replace GPS antenna,Non résolu
+176,P0950,Blind spot monitor warning,Improper tire inflation,Body Control Module,Clean battery terminals,En traitement
+177,P03AF,Unusual tire wear,"Thermostat stuck open, engine running cold",Cooling System,Replace wiper fuse,Non résolu
+178,P0220,Unusual tire wear,Connecting rod bearing wear,Horn System,Clean rearview camera lens,En traitement
+179,P0A80,Fuel gauge inaccurate,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Inverter,Replace heated seat element,Non résolu
+180,P0601,Wipers not working,Rearview camera lens dirty,Transmission,Update ECU software and reset hybrid system,Résolu
+181,P0730,Wipers not working,Faulty horn relay,MG2,Clean parking sensor,Résolu
+182,P0770,Unusual tire wear,Lane keeping assist camera misaligned,Wiper System,Recalibrate lane keeping assist camera,Résolu
+183,P0760,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Parking sensor dirty,Brakes,Clean radar sensor,Résolu
+184,P0401,"Check engine light on, no noticeable symptoms",Refrigerant leak in AC system,Trunk System,Adjust tire pressure,Non résolu
+185,P0900,Brake system warning light,Connecting rod bearing wear,AC System,Clean blind spot sensor,Non résolu
+186,P07A3,Battery overheats after 20 min of driving,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Trunk System,Increase MG1 nut torque spec from 353Nm to 398Nm,Non résolu
+187,P0440,Unusual tire wear,Heater element failure in seat,Transmission,Increase MG1 nut torque spec from 353Nm to 398Nm,Résolu
+188,P0401,Navigation system not working,Ignition coil failure in cylinder 1,MG1,Replace oxygen sensor and clear fault codes,En traitement
+189,P0500,Parking assist system error,Faulty horn relay,Tires,Replace thermostat,Non résolu
+190,P0122,Fuel gauge inaccurate,Door latch sensor faulty,Driver Assistance Systems,Replace catalytic converter,Non résolu
+191,P1100,Vehicle pulls to one side,Alignment issues,Driver Assistance Systems,Replace inverter cooling pump and refill coolant,En traitement
+192,P0700,Sunroof stuck open,Sunroof motor failure,Horn System,Replace wiper fuse,En traitement
+193,P0760,Trunk not opening,Actuator for trunk release faulty,Lighting System,Replace clutch friction element and recalibrate transmission,Non résolu
+194,P07AD,Power windows not responding,Faulty horn relay,Tires,"Locate and repair refrigerant leak, then recharge AC system",Résolu
+195,P0505,Lane departure warning system fault,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Steering,Replace inverter cooling pump and refill coolant,Non résolu
+196,P0930,Loud clicking noise during hybrid mode switch,Faulty inverter cooling pump causing insufficient coolant circulation,Trunk System,Replace spark plugs and clean fuel injectors,Non résolu
+197,P0830,Trunk not opening,GPS antenna faulty,AC System,Replace wheel bearing,En traitement
+198,P1200,Reduced power and acceleration,Transmission clutch friction element stuck causing shifting issues,Driver Assistance Systems,Replace catalytic converter,En traitement
+199,P0220,Parking assist system error,"Thermostat stuck open, engine running cold",Lighting System,Replace turbocharger,En traitement
+200,P0440,Wipers not working,Ignition coil failure in cylinder 1,Electrical System,Replace ignition coil in cylinder 1,Non résolu
+201,P1700,"Vehicle not ready, hybrid system warning",Transmission clutch friction element stuck causing shifting issues,Transmission,Clean radar sensor,En traitement
+202,P1803-00,"Check engine light on, no noticeable symptoms",Clogged fuel injector and worn spark plugs,Driver Assistance Systems,Replace wiper fuse,En traitement
+203,P0970,Vehicle pulls to one side,Clogged fuel injector and worn spark plugs,Interior Electronics,Replace oxygen sensor and clear fault codes,Non résolu
+204,P0606,Heated seats not working,"Thermostat stuck open, engine running cold",Wiper System,Replace connecting rod bearings,En traitement
+205,P0201,Engine knocking sound,Transmission clutch friction element stuck causing shifting issues,Horn System,Clean blind spot sensor,En traitement
+206,P0650,Lane departure warning system fault,Radar sensor blocked,Brakes,Replace sunroof motor,Non résolu
+207,P0650,Reduced power and acceleration,Battery internal resistance too high causing voltage imbalance,Cooling System,Clean radar sensor,En traitement
+208,P0960,Brake system warning light,Refrigerant leak in AC system,MG1,Replace GPS antenna,Résolu
+209,P0910,Sunroof stuck open,Battery internal resistance too high causing voltage imbalance,Navigation System,Replace heated seat element,Non résolu
+210,P0820,"Vehicle not ready, hybrid system warning",GPS antenna faulty,Suspension,Replace wiper fuse,Résolu
+211,P1000,Wipers not working,Loose battery terminal connection,Navigation System,Replace turbocharger,Résolu
+212,P0860,Door ajar warning light on constantly,Turbocharger seal failure,Tires,"Locate and repair refrigerant leak, then recharge AC system",Résolu
+213,P0830,Trunk not opening,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Engine,Replace wheel bearing,Non résolu
+214,P0500,Trunk not opening,Turbocharger seal failure,Sunroof System,Replace connecting rod bearings,Résolu
+215,P0446,"Check engine light on, no noticeable symptoms",Loose battery terminal connection,Navigation System,Increase MG1 nut torque spec from 353Nm to 398Nm,Résolu
+216,P0790,Unusual tire wear,Catalytic converter efficiency below threshold,Driver Assistance Systems,Replace inverter cooling pump and refill coolant,En traitement
+217,P0560,Unusual tire wear,Lane keeping assist camera misaligned,Steering,Replace catalytic converter,Non résolu
+218,P07AD,Wipers not working,Rearview camera lens dirty,MG2,Clean parking sensor,Résolu
+219,P0A93,Rearview camera blurry,Alignment issues,Sunroof System,Replace sunroof motor,Résolu
+220,P1700,Lane departure warning system fault,Door latch sensor faulty,Transmission,Clean blind spot sensor,En traitement
+221,P0715,Reduced power and acceleration,Parking sensor dirty,Lighting System,Update ECU software and reset hybrid system,En traitement
+222,P0920,"Check engine light on, no noticeable symptoms",Door latch sensor faulty,Brakes,Replace turbocharger,Résolu
+223,P0805,Rearview camera blurry,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Inverter,Replace horn relay,En traitement
+224,P0770,Engine knocking sound,Faulty inverter cooling pump causing insufficient coolant circulation,Tires,Replace inverter cooling pump and refill coolant,Non résolu
+225,P0340,"Engine misfire, rough idle",Blown fuse in wiper circuit,Lighting System,Replace clutch friction element and recalibrate transmission,Non résolu
+226,P0172,Lane departure warning system fault,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Interior Electronics,Replace catalytic converter,En traitement
+227,P0930,"Vehicle not ready, hybrid system warning",Connecting rod bearing wear,Interior Electronics,Replace connecting rod bearings,Non résolu
+228,P0740,AC not blowing cold air,Refrigerant leak in AC system,Driver Assistance Systems,Replace wiper fuse,En traitement
+229,P0830,Engine knocking sound,Actuator for trunk release faulty,Cooling System,Replace wiper fuse,En traitement
+230,P0780,"Vehicle not ready, hybrid system warning",Motor for power window faulty,Wiper System,Replace spark plugs and clean fuel injectors,Non résolu
+231,P0135,Vehicle pulls to one side,Refrigerant leak in AC system,ECU,Replace ignition coil in cylinder 1,Résolu
+232,P1200,Blind spot monitor warning,Communication loss between ECU and hybrid battery module,Suspension,Increase MG1 nut torque spec from 353Nm to 398Nm,Résolu
+233,P0900,Unusual tire wear,Connecting rod bearing wear,Wiper System,Replace oxygen sensor and clear fault codes,Non résolu
+234,P0401,Rearview camera blurry,Transmission clutch friction element stuck causing shifting issues,Safety Systems,Replace inverter cooling pump and refill coolant,Résolu
+235,P0930,Loud clicking noise during hybrid mode switch,Battery internal resistance too high causing voltage imbalance,Inverter,Replace inverter cooling pump and refill coolant,En traitement
+236,P1300,Headlights flickering,Battery internal resistance too high causing voltage imbalance,Horn System,Replace wiper fuse,Résolu
+237,P0910,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Blown fuse in wiper circuit,Trunk System,"Locate and repair refrigerant leak, then recharge AC system",Résolu
+238,P0805,Hybrid system malfunction,Loose battery terminal connection,Hybrid Battery,Replace faulty battery modules and rebalance the hybrid battery pack,Non résolu
+239,P0740,Horn not functioning,Rearview camera lens dirty,Wiper System,Replace horn relay,Non résolu
+240,P0920,Sunroof stuck open,Transmission clutch friction element stuck causing shifting issues,Inverter,Clean rearview camera lens,Non résolu
+241,P1400,Rearview camera blurry,Refrigerant leak in AC system,Hybrid Battery,Replace wiper fuse,En traitement
+242,P0790,Power windows not responding,Loose battery terminal connection,ECU,Clean parking sensor,En traitement
+243,P0830,Lane departure warning system fault,Alignment issues,Trunk System,Replace turbocharger,Résolu
+244,P0760,Vehicle pulls to one side,Actuator for trunk release faulty,Safety Systems,Replace thermostat,En traitement
+245,P1803-00,Trunk not opening,Sunroof motor failure,Exhaust System,Replace wiper fuse,En traitement
+246,P1300,Engine knocking sound,"Thermostat stuck open, engine running cold",MG1,Replace catalytic converter,En traitement
+247,P0420,Fuel gauge inaccurate,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Transmission,Replace wheel bearing,En traitement
+248,P0720,Brake system warning light,Motor for power window faulty,Engine,Replace heated seat element,Résolu
+249,P0455,Steering wheel vibration at high speed,Alignment issues,Tires,Adjust tire pressure,En traitement
+250,P0910,Door ajar warning light on constantly,Faulty horn relay,Driver Assistance Systems,Replace oxygen sensor and clear fault codes,Non résolu
+251,P0133,"Vehicle not ready, hybrid system warning",Battery internal resistance too high causing voltage imbalance,Tires,Replace connecting rod bearings,En traitement
+252,P0720,Door ajar warning light on constantly,Improper tire inflation,Lighting System,Clean blind spot sensor,Non résolu
+253,P0455,Loud clicking noise during hybrid mode switch,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Cooling System,Adjust tire pressure,En traitement
+254,P0860,"Check engine light on, no noticeable symptoms",Connecting rod bearing wear,Sunroof System,Replace wheel bearing,Non résolu
+255,P0172,Vehicle pulls to one side,Faulty inverter cooling pump causing insufficient coolant circulation,Trunk System,Replace oxygen sensor and clear fault codes,En traitement
+256,P0715,Unusual tire wear,Clogged fuel injector and worn spark plugs,Lighting System,Replace sunroof motor,Non résolu
+257,P0760,Headlights flickering,Faulty inverter cooling pump causing insufficient coolant circulation,Hybrid Battery,Replace horn relay,En traitement
+258,P1600,"Check engine light on, no noticeable symptoms","Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Safety Systems,Replace power window motor,Non résolu
+259,P0770,Brake system warning light,Connecting rod bearing wear,AC System,Adjust tire pressure,En traitement
+260,P0455,Adaptive cruise control unavailable,Heater element failure in seat,Inverter,Clean rearview camera lens,Résolu
+261,P0601,Door ajar warning light on constantly,Clogged fuel injector and worn spark plugs,Horn System,Replace ignition coil in cylinder 1,Non résolu
+262,P0172,Navigation system not working,Ignition coil failure in cylinder 1,MG2,Perform wheel alignment,Non résolu
+263,P1500,Brake system warning light,Battery internal resistance too high causing voltage imbalance,Driver Assistance Systems,Replace spark plugs and clean fuel injectors,Non résolu
+264,P0820,Loud clicking noise during hybrid mode switch,Rearview camera lens dirty,Navigation System,Replace door latch sensor,Non résolu
+265,P0325,Lane departure warning system fault,Door latch sensor faulty,Horn System,Replace door latch sensor,En traitement
+266,P0455,Navigation system not working,GPS antenna faulty,Engine,"Locate and repair refrigerant leak, then recharge AC system",Non résolu
+267,P1000,Horn not functioning,Sunroof motor failure,Hybrid Battery,Perform wheel alignment,Non résolu
+268,P0440,Hybrid system malfunction,Catalytic converter efficiency below threshold,Hybrid Battery,Replace door latch sensor,Non résolu
+269,P0401,Excessive exhaust smoke,Blown fuse in wiper circuit,Electrical System,Replace wiper fuse,Résolu
+270,P0420,Engine knocking sound,Ignition coil failure in cylinder 1,Camera Systems,Clean parking sensor,Résolu
+271,P0301,Engine knocking sound,"Thermostat stuck open, engine running cold",MG2,Replace wiper fuse,En traitement
+272,P0980,Horn not functioning,Actuator for trunk release faulty,Electrical System,Replace thermostat,Résolu
+273,P0715,Battery overheats after 20 min of driving,Ignition coil failure in cylinder 1,Safety Systems,Replace heated seat element,En traitement
+274,P0A93,Excessive exhaust smoke,Connecting rod bearing wear,Suspension,Replace heated seat element,En traitement
+275,P1300,Blind spot monitor warning,Clogged fuel injector and worn spark plugs,Trunk System,Clean parking sensor,Résolu
+276,P0890,Lane departure warning system fault,Blown fuse in wiper circuit,Brakes,Perform wheel alignment,Non résolu
+277,P0820,Engine knocking sound,Ignition coil failure in cylinder 1,Camera Systems,Clean radar sensor,Résolu
+278,P1803-00,Blind spot monitor warning,Refrigerant leak in AC system,Horn System,Replace oxygen sensor and clear fault codes,Non résolu
+279,P0910,Heated seats not working,Sunroof motor failure,Navigation System,Recalibrate lane keeping assist camera,En traitement
+280,P0940,"Check engine light on, no noticeable symptoms",Loose battery terminal connection,Horn System,Replace clutch friction element and recalibrate transmission,Résolu
+281,P0560,Excessive exhaust smoke,Wheel bearing worn out,AC System,Clean blind spot sensor,Résolu
+282,P0980,"Engine misfire, rough idle",Alignment issues,Navigation System,Replace heated seat element,En traitement
+283,P0740,Battery overheats after 20 min of driving,Alignment issues,Trunk System,Adjust tire pressure,En traitement
+284,P0301,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Door latch sensor faulty,Cooling System,Clean radar sensor,Résolu
+285,P0601,Parking assist system error,Door latch sensor faulty,ECU,Adjust tire pressure,Résolu
+286,P0730,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Connecting rod bearing wear,Cooling System,Replace inverter cooling pump and refill coolant,Non résolu
+287,P0601,Unusual tire wear,Battery internal resistance too high causing voltage imbalance,Electrical System,Clean radar sensor,En traitement
+288,P0910,Wipers not working,Clogged fuel injector and worn spark plugs,MG1,Replace inverter cooling pump and refill coolant,Non résolu
+289,P0650,Navigation system not working,Refrigerant leak in AC system,MG2,Replace turbocharger,En traitement
+290,P0325,Power windows not responding,Battery internal resistance too high causing voltage imbalance,Lighting System,Replace wiper fuse,Non résolu
+291,P0980,Door ajar warning light on constantly,Parking sensor dirty,Steering,Clean parking sensor,Résolu
+292,P0455,Loud clicking noise during hybrid mode switch,Blind spot sensor obstructed,Electrical System,Clean radar sensor,Non résolu
+293,P1600,"Engine misfire, rough idle",Communication loss between ECU and hybrid battery module,Electrical System,Perform wheel alignment,Résolu
+294,P0900,Horn not functioning,Radar sensor blocked,Navigation System,Replace wiper fuse,En traitement
+295,P0455,Wipers not working,Improper tire inflation,Engine,"Locate and repair refrigerant leak, then recharge AC system",En traitement
+296,P1600,Unusual tire wear,"Thermostat stuck open, engine running cold",Driver Assistance Systems,Replace power window motor,En traitement
+297,P0750,Heated seats not working,Parking sensor dirty,Suspension,Replace clutch friction element and recalibrate transmission,Non résolu
+298,P0440,Steering wheel vibration at high speed,Faulty inverter cooling pump causing insufficient coolant circulation,Electrical System,Replace door latch sensor,En traitement
+299,P0620,Trunk not opening,"Thermostat stuck open, engine running cold",Steering,Clean radar sensor,Non résolu
+300,P0122,Engine knocking sound,"Thermostat stuck open, engine running cold",Transmission,"Locate and repair refrigerant leak, then recharge AC system",Résolu
+301,P0960,Wipers not working,Rearview camera lens dirty,ECU,Replace faulty battery modules and rebalance the hybrid battery pack,Non résolu
+302,P0401,Wipers not working,Motor for power window faulty,Driver Assistance Systems,Replace thermostat,Résolu
+303,P0770,Reduced power and acceleration,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Inverter,Recalibrate lane keeping assist camera,En traitement
+304,P0122,"Check engine light on, no noticeable symptoms",Parking sensor dirty,Engine,Replace ignition coil in cylinder 1,Non résolu
+305,P0780,AC not blowing cold air,Radar sensor blocked,Steering,Replace connecting rod bearings,Résolu
+306,P07A3,Reduced power and acceleration,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Tires,Replace turbocharger,Résolu
+307,P0910,Power windows not responding,Parking sensor dirty,MG1,Replace thermostat,Résolu
+308,P0930,Reduced power and acceleration,Blind spot sensor obstructed,Lighting System,Replace door latch sensor,Résolu
+309,P0A80,Lane departure warning system fault,Blind spot sensor obstructed,ECU,Replace clutch friction element and recalibrate transmission,Non résolu
+310,P0770,Lane departure warning system fault,Sunroof motor failure,Camera Systems,Replace ignition coil in cylinder 1,Non résolu
+311,P0980,"Check engine light on, no noticeable symptoms",Radar sensor blocked,Transmission,Clean parking sensor,En traitement
+312,P0601,"Engine misfire, rough idle",Heater element failure in seat,Interior Electronics,Replace horn relay,Résolu
+313,P03AF,Excessive exhaust smoke,Door latch sensor faulty,Transmission,Replace faulty battery modules and rebalance the hybrid battery pack,En traitement
+314,P03AF,Lane departure warning system fault,Transmission clutch friction element stuck causing shifting issues,Horn System,Clean radar sensor,En traitement
+315,P0760,Engine knocking sound,Lane keeping assist camera misaligned,Lighting System,Replace GPS antenna,Résolu
+316,P0201,Parking assist system error,Sunroof motor failure,Cooling System,Clean rearview camera lens,Résolu
+317,P0820,Door ajar warning light on constantly,Lane keeping assist camera misaligned,Navigation System,Replace connecting rod bearings,Résolu
+318,P0760,Power windows not responding,Blown fuse in wiper circuit,Trunk System,Perform wheel alignment,Non résolu
+319,P0910,Fuel gauge inaccurate,Ignition coil failure in cylinder 1,Steering,Clean rearview camera lens,Résolu
+320,P0440,Heated seats not working,Catalytic converter efficiency below threshold,Tires,Replace faulty battery modules and rebalance the hybrid battery pack,En traitement
+321,P1200,Rearview camera blurry,Connecting rod bearing wear,Cooling System,Replace sunroof motor,En traitement
+322,P0860,Engine knocking sound,Door latch sensor faulty,Electrical System,Replace GPS antenna,Résolu
+323,P0970,Loud clicking noise during hybrid mode switch,Blind spot sensor obstructed,Trunk System,Replace clutch friction element and recalibrate transmission,Résolu
+324,P0900,Horn not functioning,Battery internal resistance too high causing voltage imbalance,Steering,Replace heated seat element,Non résolu
+325,P0730,Blind spot monitor warning,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Steering,Replace inverter cooling pump and refill coolant,Non résolu
+326,P1200,Headlights flickering,GPS antenna faulty,Interior Electronics,Replace spark plugs and clean fuel injectors,Résolu
+327,P0113,Trunk not opening,Radar sensor blocked,Electrical System,Replace heated seat element,En traitement
+328,P0990,Heated seats not working,Connecting rod bearing wear,Trunk System,Replace wiper fuse,En traitement
+329,P0122,Hybrid system malfunction,Alignment issues,Exhaust System,Replace thermostat,Non résolu
+330,P0301,Navigation system not working,Radar sensor blocked,Lighting System,Replace wheel bearing,Non résolu
+331,P0910,Unusual tire wear,Loose battery terminal connection,Hybrid Battery,Clean parking sensor,Non résolu
+332,P0970,Parking assist system error,Lane keeping assist camera misaligned,AC System,Replace connecting rod bearings,Non résolu
+333,P0705,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Refrigerant leak in AC system,Navigation System,Replace oxygen sensor and clear fault codes,En traitement
+334,P0920,Vehicle pulls to one side,Refrigerant leak in AC system,Camera Systems,Replace thermostat,Résolu
+335,P0172,Excessive exhaust smoke,Improper tire inflation,Hybrid Battery,Replace clutch friction element and recalibrate transmission,Non résolu
+336,P0171,Sunroof stuck open,Motor for power window faulty,Body Control Module,Replace heated seat element,Résolu
+337,P0870,Door ajar warning light on constantly,Battery internal resistance too high causing voltage imbalance,Cooling System,Replace power window motor,Résolu
+338,P0201,Brake system warning light,Battery internal resistance too high causing voltage imbalance,Cooling System,Recalibrate lane keeping assist camera,Non résolu
+339,P0620,Rearview camera blurry,"Thermostat stuck open, engine running cold",ECU,Replace horn relay,Non résolu
+340,P0606,Unusual tire wear,Ignition coil failure in cylinder 1,Driver Assistance Systems,Replace faulty battery modules and rebalance the hybrid battery pack,En traitement
+341,P1400,Brake system warning light,Sunroof motor failure,Tires,Replace wiper fuse,En traitement
+342,P0A80,Battery overheats after 20 min of driving,Faulty inverter cooling pump causing insufficient coolant circulation,Electrical System,"Locate and repair refrigerant leak, then recharge AC system",Non résolu
+343,P1803-00,Parking assist system error,Sunroof motor failure,MG1,Replace faulty battery modules and rebalance the hybrid battery pack,Non résolu
+344,P1200,"Vehicle not ready, hybrid system warning",Loose battery terminal connection,ECU,Replace GPS antenna,Résolu
+345,P0760,Wipers not working,Wheel bearing worn out,Brakes,Replace ignition coil in cylinder 1,Non résolu
+346,P0325,Headlights flickering,Actuator for trunk release faulty,Electrical System,Adjust tire pressure,Résolu
+347,P0500,Engine knocking sound,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Body Control Module,Replace power window motor,Non résolu
+348,P0133,Lane departure warning system fault,Connecting rod bearing wear,Interior Electronics,Increase MG1 nut torque spec from 353Nm to 398Nm,Non résolu
+349,P1100,Rearview camera blurry,Alignment issues,Tires,Replace oxygen sensor and clear fault codes,En traitement
+350,P0970,Horn not functioning,Radar sensor blocked,Hybrid Battery,Clean radar sensor,Non résolu
+351,P0820,Headlights flickering,Turbocharger seal failure,Horn System,Replace heated seat element,Résolu
+352,P0980,Steering wheel vibration at high speed,Rearview camera lens dirty,AC System,Replace heated seat element,Non résolu
+353,P0172,Rearview camera blurry,Parking sensor dirty,Electrical System,Replace trunk release actuator,Résolu
+354,P0990,Horn not functioning,Loose battery terminal connection,Safety Systems,Replace horn relay,Non résolu
+355,P0420,Power windows not responding,Battery internal resistance too high causing voltage imbalance,Body Control Module,Replace catalytic converter,En traitement
+356,P1000,Rearview camera blurry,Blown fuse in wiper circuit,Driver Assistance Systems,Replace spark plugs and clean fuel injectors,Non résolu
+357,P0440,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Connecting rod bearing wear,Interior Electronics,Update ECU software and reset hybrid system,En traitement
+358,P1500,Fuel gauge inaccurate,"Thermostat stuck open, engine running cold",Hybrid Battery,Clean blind spot sensor,Non résolu
+359,P0840,Lane departure warning system fault,Blind spot sensor obstructed,Interior Electronics,Replace catalytic converter,Résolu
+360,P07A3,Loud clicking noise during hybrid mode switch,Faulty inverter cooling pump causing insufficient coolant circulation,Inverter,Clean rearview camera lens,Non résolu
+361,P0860,AC not blowing cold air,Battery internal resistance too high causing voltage imbalance,Transmission,Replace heated seat element,Non résolu
+362,P0920,Trunk not opening,Loose battery terminal connection,AC System,Replace inverter cooling pump and refill coolant,Non résolu
+363,P0860,Sunroof stuck open,Actuator for trunk release faulty,Inverter,Replace clutch friction element and recalibrate transmission,Non résolu
+364,P0770,"Engine misfire, rough idle","Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Horn System,Replace oxygen sensor and clear fault codes,En traitement
+365,P0650,Battery overheats after 20 min of driving,Blind spot sensor obstructed,Navigation System,Increase MG1 nut torque spec from 353Nm to 398Nm,Résolu
+366,P1803-00,Vehicle pulls to one side,Ignition coil failure in cylinder 1,Trunk System,Replace sunroof motor,En traitement
+367,P0446,Vehicle pulls to one side,Alignment issues,Electrical System,Replace horn relay,Résolu
+368,P0830,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Blown fuse in wiper circuit,Tires,Clean battery terminals,Non résolu
+369,P1700,"Engine misfire, rough idle",Motor for power window faulty,MG2,Clean radar sensor,Non résolu
+370,P0705,Horn not functioning,Faulty inverter cooling pump causing insufficient coolant circulation,Body Control Module,Replace clutch friction element and recalibrate transmission,Non résolu
+371,P0940,Engine knocking sound,Heater element failure in seat,Horn System,"Locate and repair refrigerant leak, then recharge AC system",Non résolu
+372,P1100,Unusual tire wear,Catalytic converter efficiency below threshold,MG1,Replace heated seat element,En traitement
+373,P0446,Headlights flickering,Blind spot sensor obstructed,Steering,Clean battery terminals,En traitement
+374,P0730,Navigation system not working,Actuator for trunk release faulty,Driver Assistance Systems,Replace power window motor,En traitement
+375,P0960,Wipers not working,Radar sensor blocked,Cooling System,Replace wheel bearing,En traitement
+376,P0135,Engine knocking sound,Parking sensor dirty,ECU,Replace oxygen sensor and clear fault codes,Résolu
+377,P0860,Wipers not working,Connecting rod bearing wear,Electrical System,Replace faulty battery modules and rebalance the hybrid battery pack,Non résolu
+378,P0740,Parking assist system error,Lane keeping assist camera misaligned,Trunk System,Replace connecting rod bearings,Non résolu
+379,P1803-00,Power windows not responding,Rearview camera lens dirty,Exhaust System,Update ECU software and reset hybrid system,Résolu
+380,P0440,Lane departure warning system fault,Loose battery terminal connection,Camera Systems,Update ECU software and reset hybrid system,Résolu
+381,P0500,Lane departure warning system fault,Loose battery terminal connection,Navigation System,"Locate and repair refrigerant leak, then recharge AC system",En traitement
+382,P0700,Unusual tire wear,Faulty horn relay,MG1,"Locate and repair refrigerant leak, then recharge AC system",En traitement
+383,P0940,Excessive exhaust smoke,Lane keeping assist camera misaligned,Suspension,Replace wheel bearing,En traitement
+384,P0720,Vehicle pulls to one side,Connecting rod bearing wear,AC System,Replace power window motor,Non résolu
+385,P0201,Parking assist system error,Faulty inverter cooling pump causing insufficient coolant circulation,Interior Electronics,Recalibrate lane keeping assist camera,En traitement
+386,P0920,Adaptive cruise control unavailable,Rearview camera lens dirty,Steering,Replace connecting rod bearings,Non résolu
+387,P0750,Engine knocking sound,Loose battery terminal connection,MG1,Clean parking sensor,Résolu
+388,P0325,Trunk not opening,GPS antenna faulty,Tires,Replace wiper fuse,Résolu
+389,P0455,Parking assist system error,GPS antenna faulty,Tires,Replace turbocharger,Non résolu
+390,P1700,Heated seats not working,Battery internal resistance too high causing voltage imbalance,Hybrid Battery,Replace thermostat,Non résolu
+391,P0860,Lane departure warning system fault,Lane keeping assist camera misaligned,Navigation System,Replace door latch sensor,Résolu
+392,P0705,Hybrid system malfunction,"Thermostat stuck open, engine running cold",Tires,Replace sunroof motor,Non résolu
+393,P0750,Reduced power and acceleration,Communication loss between ECU and hybrid battery module,Suspension,Replace spark plugs and clean fuel injectors,En traitement
+394,P0620,Rearview camera blurry,Actuator for trunk release faulty,Interior Electronics,Replace heated seat element,Non résolu
+395,P0401,Reduced power and acceleration,Actuator for trunk release faulty,Brakes,Replace ignition coil in cylinder 1,Résolu
+396,P0122,Wipers not working,Loose battery terminal connection,Steering,Replace oxygen sensor and clear fault codes,En traitement
+397,P07A3,Loud clicking noise during hybrid mode switch,Communication loss between ECU and hybrid battery module,MG2,Replace faulty battery modules and rebalance the hybrid battery pack,Non résolu
+398,P0101,Rearview camera blurry,Communication loss between ECU and hybrid battery module,Transmission,Replace heated seat element,Résolu
+399,P1300,Sunroof stuck open,Turbocharger seal failure,MG2,Replace oxygen sensor and clear fault codes,Non résolu
+400,P0201,AC not blowing cold air,Motor for power window faulty,Camera Systems,Replace GPS antenna,Résolu
+401,P0720,Door ajar warning light on constantly,Faulty inverter cooling pump causing insufficient coolant circulation,MG2,Replace clutch friction element and recalibrate transmission,Résolu
+402,P0780,Headlights flickering,Heater element failure in seat,Horn System,Replace clutch friction element and recalibrate transmission,Non résolu
+403,P0960,Horn not functioning,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Interior Electronics,Replace door latch sensor,Non résolu
+404,P0860,Lane departure warning system fault,Lane keeping assist camera misaligned,Suspension,Replace faulty battery modules and rebalance the hybrid battery pack,En traitement
+405,P0340,Battery overheats after 20 min of driving,Blind spot sensor obstructed,Engine,Update ECU software and reset hybrid system,Résolu
+406,P1500,Heated seats not working,Door latch sensor faulty,Wiper System,Clean parking sensor,Non résolu
+407,P0A80,Fuel gauge inaccurate,Alignment issues,ECU,Replace faulty battery modules and rebalance the hybrid battery pack,Résolu
+408,P0715,Rearview camera blurry,GPS antenna faulty,Electrical System,Clean parking sensor,Non résolu
+409,P0560,Power windows not responding,Turbocharger seal failure,Tires,Replace inverter cooling pump and refill coolant,En traitement
+410,P0870,Lane departure warning system fault,Blind spot sensor obstructed,Camera Systems,Replace inverter cooling pump and refill coolant,Non résolu
+411,P0970,Trunk not opening,Motor for power window faulty,Body Control Module,Perform wheel alignment,Résolu
+412,P0122,"Vehicle not ready, hybrid system warning",Faulty horn relay,Driver Assistance Systems,Replace power window motor,Non résolu
+413,P0760,Door ajar warning light on constantly,Parking sensor dirty,Trunk System,Clean blind spot sensor,Résolu
+414,P0171,Door ajar warning light on constantly,Parking sensor dirty,Wiper System,Perform wheel alignment,Résolu
+415,P0700,Parking assist system error,Communication loss between ECU and hybrid battery module,AC System,Replace wiper fuse,En traitement
+416,P0790,Door ajar warning light on constantly,Clogged fuel injector and worn spark plugs,Electrical System,Replace faulty battery modules and rebalance the hybrid battery pack,Résolu
+417,P07AD,Lane departure warning system fault,Refrigerant leak in AC system,Cooling System,Replace oxygen sensor and clear fault codes,Non résolu
+418,P0446,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Refrigerant leak in AC system,Sunroof System,Replace sunroof motor,Non résolu
+419,P0830,Hybrid system malfunction,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Safety Systems,Replace power window motor,Résolu
+420,P0760,Horn not functioning,Actuator for trunk release faulty,Inverter,Replace trunk release actuator,Non résolu
+421,P0850,AC not blowing cold air,Communication loss between ECU and hybrid battery module,Horn System,Replace spark plugs and clean fuel injectors,En traitement
+422,P1600,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Turbocharger seal failure,Engine,Replace catalytic converter,Non résolu
+423,P1700,Power windows not responding,Actuator for trunk release faulty,Navigation System,Clean rearview camera lens,Non résolu
+424,P0650,"Check engine light on, no noticeable symptoms",Faulty inverter cooling pump causing insufficient coolant circulation,Trunk System,Replace connecting rod bearings,En traitement
+425,P0720,Rearview camera blurry,Lane keeping assist camera misaligned,Navigation System,Replace power window motor,En traitement
+426,P0325,Lane departure warning system fault,Clogged fuel injector and worn spark plugs,Hybrid Battery,Replace door latch sensor,En traitement
+427,P1000,Blind spot monitor warning,GPS antenna faulty,Camera Systems,Replace thermostat,Résolu
+428,P0930,Heated seats not working,Transmission clutch friction element stuck causing shifting issues,Cooling System,Replace connecting rod bearings,Résolu
+429,P0113,Brake system warning light,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Wiper System,Clean battery terminals,Non résolu
+430,P0740,Lane departure warning system fault,Rearview camera lens dirty,Tires,Replace door latch sensor,En traitement
+431,P0335,AC not blowing cold air,Ignition coil failure in cylinder 1,Hybrid Battery,Replace horn relay,Résolu
+432,P0760,Loud clicking noise during hybrid mode switch,"Thermostat stuck open, engine running cold",Brakes,Recalibrate lane keeping assist camera,Non résolu
+433,P1200,Trunk not opening,Radar sensor blocked,Electrical System,Replace faulty battery modules and rebalance the hybrid battery pack,Non résolu
+434,P0335,Sunroof stuck open,Refrigerant leak in AC system,Horn System,Replace faulty battery modules and rebalance the hybrid battery pack,Résolu
+435,P0960,Headlights flickering,Motor for power window faulty,MG2,Replace connecting rod bearings,En traitement
+436,P0760,Loud clicking noise during hybrid mode switch,Turbocharger seal failure,Steering,Replace thermostat,En traitement
+437,P0440,"Check engine light on, no noticeable symptoms",Faulty inverter cooling pump causing insufficient coolant circulation,Driver Assistance Systems,Replace heated seat element,Non résolu
+438,P0880,Lane departure warning system fault,Alignment issues,Transmission,Clean radar sensor,En traitement
+439,P0790,Vehicle pulls to one side,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",ECU,Replace sunroof motor,Non résolu
+440,P0810,"Check engine light on, no noticeable symptoms",Loose battery terminal connection,Driver Assistance Systems,Clean parking sensor,Résolu
+441,P0201,AC not blowing cold air,Ignition coil failure in cylinder 1,Sunroof System,Recalibrate lane keeping assist camera,En traitement
+442,P0880,AC not blowing cold air,"Thermostat stuck open, engine running cold",Hybrid Battery,Adjust tire pressure,En traitement
+443,P0606,Brake system warning light,Battery internal resistance too high causing voltage imbalance,Steering,Replace connecting rod bearings,Résolu
+444,P0A93,"Engine misfire, rough idle","Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Interior Electronics,Replace catalytic converter,Non résolu
+445,P0171,Parking assist system error,Faulty inverter cooling pump causing insufficient coolant circulation,Hybrid Battery,Clean rearview camera lens,Résolu
+446,P0440,Lane departure warning system fault,Transmission clutch friction element stuck causing shifting issues,Sunroof System,Clean radar sensor,En traitement
+447,P0750,Brake system warning light,Refrigerant leak in AC system,ECU,Replace faulty battery modules and rebalance the hybrid battery pack,Non résolu
+448,P0420,Rearview camera blurry,Turbocharger seal failure,Tires,Replace wiper fuse,Non résolu
+449,P0201,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Motor for power window faulty,Body Control Module,Replace spark plugs and clean fuel injectors,En traitement
+450,P03AF,Excessive exhaust smoke,Blind spot sensor obstructed,Inverter,Adjust tire pressure,Non résolu
+451,P1400,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Turbocharger seal failure,AC System,Replace spark plugs and clean fuel injectors,En traitement
+452,P07A3,Fuel gauge inaccurate,Refrigerant leak in AC system,Hybrid Battery,Perform wheel alignment,Résolu
+453,P0505,Lane departure warning system fault,Catalytic converter efficiency below threshold,Sunroof System,Replace clutch friction element and recalibrate transmission,Résolu
+454,P0560,Wipers not working,Door latch sensor faulty,Interior Electronics,Update ECU software and reset hybrid system,Résolu
+455,P0171,"Check engine light on, no noticeable symptoms",Improper tire inflation,Wiper System,Replace faulty battery modules and rebalance the hybrid battery pack,Résolu
+456,P0325,Unusual tire wear,Lane keeping assist camera misaligned,Navigation System,Replace oxygen sensor and clear fault codes,Résolu
+457,P0340,Hybrid system malfunction,Actuator for trunk release faulty,MG2,Replace horn relay,Résolu
+458,P0715,Headlights flickering,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Steering,Replace wheel bearing,Non résolu
+459,P0930,Battery overheats after 20 min of driving,"Thermostat stuck open, engine running cold",Transmission,Replace turbocharger,En traitement
+460,P1600,Trunk not opening,Heater element failure in seat,ECU,Replace catalytic converter,Résolu
+461,P0401,Lane departure warning system fault,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",MG2,Replace clutch friction element and recalibrate transmission,En traitement
+462,P0446,Door ajar warning light on constantly,Refrigerant leak in AC system,Exhaust System,Replace catalytic converter,Résolu
+463,P07AD,Unusual tire wear,Turbocharger seal failure,Sunroof System,Recalibrate lane keeping assist camera,Non résolu
+464,P0505,Hybrid system malfunction,Communication loss between ECU and hybrid battery module,Exhaust System,Replace trunk release actuator,Résolu
+465,P0401,AC not blowing cold air,Connecting rod bearing wear,ECU,Replace oxygen sensor and clear fault codes,En traitement
+466,P0740,Door ajar warning light on constantly,Motor for power window faulty,Safety Systems,Replace horn relay,Résolu
+467,P0340,Excessive exhaust smoke,Loose battery terminal connection,Driver Assistance Systems,Replace connecting rod bearings,Non résolu
+468,P0830,Loud clicking noise during hybrid mode switch,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Horn System,Replace connecting rod bearings,Résolu
+469,P0910,Vehicle pulls to one side,Wheel bearing worn out,Tires,Clean blind spot sensor,Résolu
+470,P0650,AC not blowing cold air,Motor for power window faulty,MG2,Replace connecting rod bearings,Non résolu
+471,P0850,Loud clicking noise during hybrid mode switch,Blown fuse in wiper circuit,Trunk System,Replace wiper fuse,Non résolu
+472,P0446,Brake system warning light,Door latch sensor faulty,Trunk System,Replace faulty battery modules and rebalance the hybrid battery pack,Résolu
+473,P1300,Hybrid system malfunction,Heater element failure in seat,Cooling System,Clean radar sensor,Non résolu
+474,P0201,Horn not functioning,Sunroof motor failure,Interior Electronics,Clean battery terminals,Non résolu
+475,P0900,Headlights flickering,Radar sensor blocked,Brakes,Recalibrate lane keeping assist camera,En traitement
+476,P0920,Rearview camera blurry,Wheel bearing worn out,Wiper System,Replace power window motor,En traitement
+477,P1000,"Vehicle not ready, hybrid system warning",Communication loss between ECU and hybrid battery module,Suspension,Replace ignition coil in cylinder 1,Résolu
+478,P0113,Hybrid system malfunction,Alignment issues,Suspension,"Locate and repair refrigerant leak, then recharge AC system",Non résolu
+479,P0171,Wipers not working,Alignment issues,ECU,Replace inverter cooling pump and refill coolant,Résolu
+480,P1803-00,Sunroof stuck open,Door latch sensor faulty,AC System,Clean parking sensor,Résolu
+481,P0420,Heated seats not working,Rearview camera lens dirty,Wiper System,Adjust tire pressure,En traitement
+482,P07AD,Headlights flickering,"Thermostat stuck open, engine running cold",Camera Systems,Replace heated seat element,Non résolu
+483,P0870,"Engine misfire, rough idle",Motor for power window faulty,AC System,Replace spark plugs and clean fuel injectors,Non résolu
+484,P0840,"Vehicle not ready, hybrid system warning",Ignition coil failure in cylinder 1,Tires,Replace heated seat element,Résolu
+485,P0560,"Engine misfire, rough idle",Alignment issues,Trunk System,Clean rearview camera lens,Résolu
+486,P0301,Excessive exhaust smoke,Radar sensor blocked,Interior Electronics,Replace wiper fuse,Non résolu
+487,P0420,Brake system warning light,Door latch sensor faulty,Exhaust System,Clean battery terminals,Non résolu
+488,P0770,Fuel gauge inaccurate,Communication loss between ECU and hybrid battery module,Electrical System,Replace ignition coil in cylinder 1,Non résolu
+489,P0101,Unusual tire wear,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Safety Systems,Replace oxygen sensor and clear fault codes,Résolu
+490,P0980,Wipers not working,Connecting rod bearing wear,AC System,Replace ignition coil in cylinder 1,Non résolu
+491,P1000,Rearview camera blurry,Battery internal resistance too high causing voltage imbalance,Camera Systems,Update ECU software and reset hybrid system,Non résolu
+492,P0650,Heated seats not working,Communication loss between ECU and hybrid battery module,Trunk System,Replace faulty battery modules and rebalance the hybrid battery pack,Non résolu
+493,P0201,Power windows not responding,Lane keeping assist camera misaligned,Body Control Module,Replace wiper fuse,Résolu
+494,P0880,Trunk not opening,Ignition coil failure in cylinder 1,Cooling System,Replace wiper fuse,Non résolu
+495,P0340,Sunroof stuck open,Faulty inverter cooling pump causing insufficient coolant circulation,Driver Assistance Systems,Replace turbocharger,Non résolu
+496,P0910,Navigation system not working,GPS antenna faulty,Body Control Module,Replace catalytic converter,En traitement
+497,P0960,Battery overheats after 20 min of driving,"Thermostat stuck open, engine running cold",Camera Systems,Replace door latch sensor,Résolu
+498,P0650,Rearview camera blurry,Blind spot sensor obstructed,Lighting System,Replace connecting rod bearings,Résolu
+499,P0920,Loud clicking noise during hybrid mode switch,Faulty horn relay,ECU,Update ECU software and reset hybrid system,Non résolu
+500,P1200,Excessive exhaust smoke,Faulty horn relay,Inverter,Replace inverter cooling pump and refill coolant,Résolu
+501,P1600,Power windows not responding,Communication loss between ECU and hybrid battery module,Sunroof System,Recalibrate lane keeping assist camera,Non résolu
+502,P0860,"Check engine light on, no noticeable symptoms",Transmission clutch friction element stuck causing shifting issues,MG1,Clean battery terminals,Non résolu
+503,P0750,Reduced power and acceleration,Connecting rod bearing wear,Exhaust System,Replace thermostat,En traitement
+504,P0990,Sunroof stuck open,Ignition coil failure in cylinder 1,Trunk System,Recalibrate lane keeping assist camera,Résolu
+505,P0890,"Check engine light on, no noticeable symptoms",Catalytic converter efficiency below threshold,MG1,Replace turbocharger,Non résolu
+506,P0980,Horn not functioning,Blind spot sensor obstructed,Camera Systems,Update ECU software and reset hybrid system,Non résolu
+507,P0446,Hybrid system malfunction,Ignition coil failure in cylinder 1,Cooling System,Replace wiper fuse,Résolu
+508,P0340,Rearview camera blurry,Battery internal resistance too high causing voltage imbalance,Hybrid Battery,Replace sunroof motor,Résolu
+509,P0420,Horn not functioning,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Sunroof System,Replace ignition coil in cylinder 1,Non résolu
+510,P0601,Excessive exhaust smoke,"Oxygen sensor malfunction, leading to incorrect fuel mixture",ECU,Clean radar sensor,Résolu
+511,P0335,Brake system warning light,Catalytic converter efficiency below threshold,AC System,Replace heated seat element,Non résolu
+512,P0980,Vehicle pulls to one side,Catalytic converter efficiency below threshold,MG2,Replace GPS antenna,Résolu
+513,P0A93,Lane departure warning system fault,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Lighting System,Replace clutch friction element and recalibrate transmission,Résolu
+514,P0705,Headlights flickering,Connecting rod bearing wear,Steering,Replace ignition coil in cylinder 1,Résolu
+515,P0940,Heated seats not working,Wheel bearing worn out,ECU,Replace clutch friction element and recalibrate transmission,En traitement
+516,P0950,Power windows not responding,Turbocharger seal failure,Wiper System,Clean radar sensor,En traitement
+517,P0805,Headlights flickering,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",MG2,Replace clutch friction element and recalibrate transmission,En traitement
+518,P0700,Horn not functioning,Sunroof motor failure,Inverter,Replace spark plugs and clean fuel injectors,Non résolu
+519,P0910,Rearview camera blurry,Wheel bearing worn out,AC System,Replace power window motor,Résolu
+520,P0500,"Check engine light on, no noticeable symptoms","Thermostat stuck open, engine running cold",Inverter,Clean parking sensor,Résolu
+521,P1300,Vehicle pulls to one side,Blind spot sensor obstructed,Sunroof System,Replace GPS antenna,Résolu
+522,P0500,Engine knocking sound,Motor for power window faulty,Sunroof System,Replace horn relay,Résolu
+523,P1803-00,Adaptive cruise control unavailable,Door latch sensor faulty,Tires,Update ECU software and reset hybrid system,Résolu
+524,P03AF,Steering wheel vibration at high speed,Lane keeping assist camera misaligned,Camera Systems,Replace spark plugs and clean fuel injectors,En traitement
+525,P0101,Door ajar warning light on constantly,Alignment issues,Inverter,Clean blind spot sensor,Non résolu
+526,P0500,Lane departure warning system fault,Radar sensor blocked,MG2,Clean battery terminals,Non résolu
+527,P0650,Steering wheel vibration at high speed,Actuator for trunk release faulty,Lighting System,Clean blind spot sensor,Résolu
+528,P0A80,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Ignition coil failure in cylinder 1,Tires,Replace wheel bearing,Non résolu
+529,P0440,AC not blowing cold air,Connecting rod bearing wear,Engine,Replace clutch friction element and recalibrate transmission,Non résolu
+530,P0172,Wipers not working,Loose battery terminal connection,Trunk System,Replace oxygen sensor and clear fault codes,Résolu
+531,P0880,Adaptive cruise control unavailable,Radar sensor blocked,Safety Systems,Replace GPS antenna,Résolu
+532,P0A80,Wipers not working,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Transmission,Replace catalytic converter,Résolu
+533,P0810,Loud clicking noise during hybrid mode switch,Actuator for trunk release faulty,MG1,Adjust tire pressure,Non résolu
+534,P0401,Trunk not opening,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",MG2,Perform wheel alignment,Résolu
+535,P03AF,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Door latch sensor faulty,Lighting System,Replace horn relay,Résolu
+536,P1400,Power windows not responding,Motor for power window faulty,Horn System,"Locate and repair refrigerant leak, then recharge AC system",En traitement
+537,P0440,Fuel gauge inaccurate,Improper tire inflation,Lighting System,Adjust tire pressure,Résolu
+538,P0620,Heated seats not working,Battery internal resistance too high causing voltage imbalance,Engine,"Locate and repair refrigerant leak, then recharge AC system",Résolu
+539,P0A80,Vehicle pulls to one side,Improper tire inflation,MG2,Replace power window motor,En traitement
+540,P0870,Parking assist system error,Faulty horn relay,Navigation System,Replace ignition coil in cylinder 1,Non résolu
+541,P0560,Trunk not opening,Parking sensor dirty,Exhaust System,Replace catalytic converter,En traitement
+542,P0910,Brake system warning light,Motor for power window faulty,MG2,Adjust tire pressure,Non résolu
+543,P07A3,"Check engine light on, no noticeable symptoms",Battery internal resistance too high causing voltage imbalance,Wiper System,Increase MG1 nut torque spec from 353Nm to 398Nm,Résolu
+544,P0500,Rearview camera blurry,Faulty horn relay,Suspension,Replace heated seat element,Résolu
+545,P0101,"Check engine light on, no noticeable symptoms",Actuator for trunk release faulty,Body Control Module,Clean rearview camera lens,Résolu
+546,P0705,Unusual tire wear,Refrigerant leak in AC system,Transmission,Replace clutch friction element and recalibrate transmission,En traitement
+547,P0455,Vehicle pulls to one side,Clogged fuel injector and worn spark plugs,Brakes,Replace power window motor,En traitement
+548,P1700,Steering wheel vibration at high speed,"Thermostat stuck open, engine running cold",Electrical System,Replace power window motor,Résolu
+549,P0930,Hybrid system malfunction,Blind spot sensor obstructed,Cooling System,Clean blind spot sensor,Résolu
+550,P0401,Blind spot monitor warning,Blown fuse in wiper circuit,Wiper System,Perform wheel alignment,En traitement
+551,P0201,Fuel gauge inaccurate,Radar sensor blocked,MG2,Replace heated seat element,Résolu
+552,P0890,Headlights flickering,GPS antenna faulty,Transmission,Clean rearview camera lens,Non résolu
+553,P0790,Fuel gauge inaccurate,Clogged fuel injector and worn spark plugs,Hybrid Battery,Replace ignition coil in cylinder 1,Résolu
+554,P0720,Power windows not responding,GPS antenna faulty,AC System,Recalibrate lane keeping assist camera,Non résolu
+555,P03AF,Heated seats not working,Faulty inverter cooling pump causing insufficient coolant circulation,Driver Assistance Systems,Replace inverter cooling pump and refill coolant,En traitement
+556,P1400,Adaptive cruise control unavailable,Parking sensor dirty,Lighting System,Replace horn relay,En traitement
+557,P0730,Steering wheel vibration at high speed,Actuator for trunk release faulty,MG2,Recalibrate lane keeping assist camera,En traitement
+558,P0455,Lane departure warning system fault,GPS antenna faulty,Brakes,Replace thermostat,Non résolu
+559,P0970,Door ajar warning light on constantly,Battery internal resistance too high causing voltage imbalance,MG2,Clean blind spot sensor,En traitement
+560,P0950,Horn not functioning,Catalytic converter efficiency below threshold,Inverter,Replace horn relay,Non résolu
+561,P0560,Steering wheel vibration at high speed,Ignition coil failure in cylinder 1,Engine,Replace catalytic converter,Résolu
+562,P0960,Parking assist system error,Heater element failure in seat,Hybrid Battery,Clean parking sensor,En traitement
+563,P1600,Vehicle pulls to one side,Radar sensor blocked,ECU,Replace heated seat element,Non résolu
+564,P0890,Lane departure warning system fault,Parking sensor dirty,Suspension,Update ECU software and reset hybrid system,Non résolu
+565,P0650,Navigation system not working,Faulty horn relay,Lighting System,Replace inverter cooling pump and refill coolant,En traitement
+566,P0122,Lane departure warning system fault,Sunroof motor failure,Interior Electronics,Replace door latch sensor,Résolu
+567,P0201,Hybrid system malfunction,Door latch sensor faulty,Transmission,Clean rearview camera lens,Non résolu
+568,P0705,Loud clicking noise during hybrid mode switch,Radar sensor blocked,Tires,Adjust tire pressure,Non résolu
+569,P0401,Hybrid system malfunction,"Thermostat stuck open, engine running cold",Engine,"Locate and repair refrigerant leak, then recharge AC system",En traitement
+570,P0850,Heated seats not working,Door latch sensor faulty,Body Control Module,Replace faulty battery modules and rebalance the hybrid battery pack,Résolu
+571,P0172,Fuel gauge inaccurate,"Thermostat stuck open, engine running cold",MG2,Clean parking sensor,Non résolu
+572,P0900,Heated seats not working,Alignment issues,Steering,Replace inverter cooling pump and refill coolant,Non résolu
+573,P1300,Door ajar warning light on constantly,Heater element failure in seat,Engine,Replace thermostat,En traitement
+574,P0500,Horn not functioning,Faulty horn relay,Interior Electronics,Replace catalytic converter,Résolu
+575,P0446,Excessive exhaust smoke,Lane keeping assist camera misaligned,Lighting System,Replace thermostat,Résolu
+576,P0900,Lane departure warning system fault,Improper tire inflation,MG1,Increase MG1 nut torque spec from 353Nm to 398Nm,Non résolu
+577,P0113,Wipers not working,Alignment issues,Electrical System,Recalibrate lane keeping assist camera,Résolu
+578,P0301,Door ajar warning light on constantly,Parking sensor dirty,Tires,Clean rearview camera lens,En traitement
+579,P0750,Blind spot monitor warning,Motor for power window faulty,Cooling System,Replace GPS antenna,Non résolu
+580,P0740,"Check engine light on, no noticeable symptoms",Actuator for trunk release faulty,Sunroof System,Recalibrate lane keeping assist camera,Résolu
+581,P1300,Heated seats not working,Transmission clutch friction element stuck causing shifting issues,Trunk System,Replace inverter cooling pump and refill coolant,Résolu
+582,P0790,Horn not functioning,Door latch sensor faulty,ECU,Recalibrate lane keeping assist camera,Résolu
+583,P0920,Loud clicking noise during hybrid mode switch,Refrigerant leak in AC system,Trunk System,Adjust tire pressure,En traitement
+584,P0960,Loud clicking noise during hybrid mode switch,Actuator for trunk release faulty,Brakes,Replace wheel bearing,Non résolu
+585,P0113,AC not blowing cold air,Blind spot sensor obstructed,Lighting System,Recalibrate lane keeping assist camera,Résolu
+586,P0940,Excessive exhaust smoke,Door latch sensor faulty,Interior Electronics,Perform wheel alignment,En traitement
+587,P0401,AC not blowing cold air,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Camera Systems,Replace wheel bearing,Non résolu
+588,P0820,Parking assist system error,Faulty inverter cooling pump causing insufficient coolant circulation,Tires,Replace door latch sensor,Résolu
+589,P0440,Heated seats not working,Alignment issues,MG1,Replace connecting rod bearings,Non résolu
+590,P0930,Sunroof stuck open,Alignment issues,Horn System,Replace oxygen sensor and clear fault codes,Non résolu
+591,P0740,Adaptive cruise control unavailable,Faulty horn relay,Exhaust System,Replace power window motor,Résolu
+592,P1000,Sunroof stuck open,Parking sensor dirty,MG1,Replace turbocharger,Résolu
+593,P0A93,Heated seats not working,Refrigerant leak in AC system,Trunk System,Perform wheel alignment,En traitement
+594,P0810,"Check engine light on, no noticeable symptoms","Oxygen sensor malfunction, leading to incorrect fuel mixture",Hybrid Battery,Replace faulty battery modules and rebalance the hybrid battery pack,En traitement
+595,P0840,Wipers not working,Communication loss between ECU and hybrid battery module,Camera Systems,Replace GPS antenna,Résolu
+596,P0920,Adaptive cruise control unavailable,Parking sensor dirty,Steering,Replace wheel bearing,Non résolu
+597,P0805,Blind spot monitor warning,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Horn System,Update ECU software and reset hybrid system,Non résolu
+598,P0840,Steering wheel vibration at high speed,Wheel bearing worn out,Trunk System,Replace trunk release actuator,En traitement
+599,P1100,Headlights flickering,Faulty horn relay,Safety Systems,Replace GPS antenna,Résolu
+600,P07A3,Engine knocking sound,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Safety Systems,Replace power window motor,Résolu
+601,P0101,Battery overheats after 20 min of driving,Loose battery terminal connection,MG1,Replace clutch friction element and recalibrate transmission,Résolu
+602,P0606,Horn not functioning,Refrigerant leak in AC system,ECU,Increase MG1 nut torque spec from 353Nm to 398Nm,Non résolu
+603,P0705,Navigation system not working,Refrigerant leak in AC system,AC System,Increase MG1 nut torque spec from 353Nm to 398Nm,Non résolu
+604,P0760,"Vehicle not ready, hybrid system warning",Faulty horn relay,Driver Assistance Systems,Clean battery terminals,Non résolu
+605,P0715,Reduced power and acceleration,GPS antenna faulty,Hybrid Battery,Replace GPS antenna,En traitement
+606,P0840,Wipers not working,Motor for power window faulty,Driver Assistance Systems,Replace turbocharger,En traitement
+607,P0500,Unusual tire wear,Turbocharger seal failure,Camera Systems,Clean rearview camera lens,Non résolu
+608,P0770,Lane departure warning system fault,Refrigerant leak in AC system,Electrical System,Clean blind spot sensor,Non résolu
+609,P1300,Sunroof stuck open,Rearview camera lens dirty,Interior Electronics,Clean radar sensor,En traitement
+610,P0805,Hybrid system malfunction,Sunroof motor failure,Hybrid Battery,Replace inverter cooling pump and refill coolant,Non résolu
+611,P1200,Heated seats not working,Ignition coil failure in cylinder 1,Horn System,Replace ignition coil in cylinder 1,En traitement
+612,P0930,"Check engine light on, no noticeable symptoms",Blown fuse in wiper circuit,MG2,Replace oxygen sensor and clear fault codes,En traitement
+613,P0101,Navigation system not working,Alignment issues,Inverter,Clean rearview camera lens,Non résolu
+614,P1500,"Check engine light on, no noticeable symptoms",Clogged fuel injector and worn spark plugs,Tires,Replace horn relay,Résolu
+615,P0101,Excessive exhaust smoke,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Steering,Clean blind spot sensor,Non résolu
+616,P0401,Steering wheel vibration at high speed,Parking sensor dirty,Brakes,Replace spark plugs and clean fuel injectors,En traitement
+617,P0172,Engine knocking sound,Faulty horn relay,MG2,Perform wheel alignment,Non résolu
+618,P0860,Brake system warning light,Refrigerant leak in AC system,Body Control Module,Recalibrate lane keeping assist camera,Non résolu
+619,P1000,Lane departure warning system fault,Rearview camera lens dirty,Horn System,Adjust tire pressure,Non résolu
+620,P07A3,Rearview camera blurry,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Lighting System,Increase MG1 nut torque spec from 353Nm to 398Nm,Non résolu
+621,P0740,Unusual tire wear,Loose battery terminal connection,Suspension,Replace spark plugs and clean fuel injectors,Résolu
+622,P0A93,Wipers not working,Actuator for trunk release faulty,Transmission,Clean blind spot sensor,Résolu
+623,P0900,Rearview camera blurry,Faulty inverter cooling pump causing insufficient coolant circulation,Safety Systems,Replace ignition coil in cylinder 1,En traitement
+624,P0850,"Engine misfire, rough idle",Rearview camera lens dirty,Engine,Adjust tire pressure,Résolu
+625,P03AF,Navigation system not working,Heater element failure in seat,ECU,Replace heated seat element,Non résolu
+626,P0980,Battery overheats after 20 min of driving,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Steering,Replace faulty battery modules and rebalance the hybrid battery pack,Résolu
+627,P0335,Door ajar warning light on constantly,Lane keeping assist camera misaligned,Wiper System,Adjust tire pressure,En traitement
+628,P07AD,Steering wheel vibration at high speed,Catalytic converter efficiency below threshold,MG2,Update ECU software and reset hybrid system,Non résolu
+629,P0760,Steering wheel vibration at high speed,Improper tire inflation,Brakes,Replace GPS antenna,Non résolu
+630,P0840,Lane departure warning system fault,Rearview camera lens dirty,Hybrid Battery,Increase MG1 nut torque spec from 353Nm to 398Nm,Résolu
+631,P0133,Fuel gauge inaccurate,Sunroof motor failure,Body Control Module,Replace spark plugs and clean fuel injectors,En traitement
+632,P0340,Rearview camera blurry,Catalytic converter efficiency below threshold,Transmission,Clean parking sensor,En traitement
+633,P0860,Horn not functioning,Alignment issues,Steering,Replace clutch friction element and recalibrate transmission,Non résolu
+634,P0A80,Engine knocking sound,GPS antenna faulty,Inverter,Increase MG1 nut torque spec from 353Nm to 398Nm,En traitement
+635,P0870,Hybrid system malfunction,Ignition coil failure in cylinder 1,Sunroof System,Clean radar sensor,Résolu
+636,P03AF,Brake system warning light,Parking sensor dirty,Inverter,Replace wiper fuse,Résolu
+637,P0700,Lane departure warning system fault,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",MG1,Replace clutch friction element and recalibrate transmission,Résolu
+638,P0455,Loud clicking noise during hybrid mode switch,Heater element failure in seat,Horn System,Replace thermostat,Résolu
+639,P0910,Door ajar warning light on constantly,Battery internal resistance too high causing voltage imbalance,MG2,Replace wheel bearing,En traitement
+640,P0715,Hybrid system malfunction,Blown fuse in wiper circuit,Horn System,Increase MG1 nut torque spec from 353Nm to 398Nm,Résolu
+641,P07A3,Power windows not responding,Catalytic converter efficiency below threshold,Trunk System,Replace oxygen sensor and clear fault codes,Non résolu
+642,P0325,Unusual tire wear,Ignition coil failure in cylinder 1,Engine,Replace wheel bearing,Résolu
+643,P0113,Lane departure warning system fault,Heater element failure in seat,Wiper System,Replace catalytic converter,Résolu
+644,P0760,Parking assist system error,Blind spot sensor obstructed,Suspension,Replace clutch friction element and recalibrate transmission,Non résolu
+645,P0335,Blind spot monitor warning,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Engine,Replace heated seat element,Non résolu
+646,P0970,Excessive exhaust smoke,Catalytic converter efficiency below threshold,Navigation System,Recalibrate lane keeping assist camera,Résolu
+647,P0325,Brake system warning light,"Thermostat stuck open, engine running cold",Transmission,Replace catalytic converter,Non résolu
+648,P0401,Horn not functioning,Blown fuse in wiper circuit,MG2,"Locate and repair refrigerant leak, then recharge AC system",Non résolu
+649,P0601,Adaptive cruise control unavailable,Loose battery terminal connection,MG1,Clean radar sensor,Non résolu
+650,P0133,"Check engine light on, no noticeable symptoms","Thermostat stuck open, engine running cold",AC System,Replace sunroof motor,En traitement
+651,P0505,Parking assist system error,Sunroof motor failure,Driver Assistance Systems,Replace wiper fuse,Non résolu
+652,P0790,Lane departure warning system fault,Door latch sensor faulty,Suspension,"Locate and repair refrigerant leak, then recharge AC system",En traitement
+653,P0700,Sunroof stuck open,Communication loss between ECU and hybrid battery module,Horn System,Replace connecting rod bearings,En traitement
+654,P03AF,Loud clicking noise during hybrid mode switch,Blown fuse in wiper circuit,MG2,Replace thermostat,Résolu
+655,P1300,Horn not functioning,Sunroof motor failure,Inverter,Replace faulty battery modules and rebalance the hybrid battery pack,Résolu
+656,P0122,Power windows not responding,Blown fuse in wiper circuit,Sunroof System,Clean parking sensor,En traitement
+657,P0900,Battery overheats after 20 min of driving,Wheel bearing worn out,Tires,Clean battery terminals,Résolu
+658,P0810,Blind spot monitor warning,Blown fuse in wiper circuit,Interior Electronics,Replace turbocharger,Non résolu
+659,P0930,Power windows not responding,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Camera Systems,Replace door latch sensor,Résolu
+660,P0335,AC not blowing cold air,Clogged fuel injector and worn spark plugs,Brakes,Replace thermostat,En traitement
+661,P0705,Loud clicking noise during hybrid mode switch,Connecting rod bearing wear,Body Control Module,Clean blind spot sensor,Résolu
+662,P0980,"Check engine light on, no noticeable symptoms",Faulty inverter cooling pump causing insufficient coolant circulation,Safety Systems,Replace door latch sensor,En traitement
+663,P0860,Battery overheats after 20 min of driving,Wheel bearing worn out,Lighting System,Replace ignition coil in cylinder 1,En traitement
+664,P0950,"Engine misfire, rough idle",Lane keeping assist camera misaligned,Camera Systems,Replace spark plugs and clean fuel injectors,Non résolu
+665,P1000,Battery overheats after 20 min of driving,Parking sensor dirty,Sunroof System,Update ECU software and reset hybrid system,Résolu
+666,P1600,"Vehicle not ready, hybrid system warning",Sunroof motor failure,Sunroof System,Recalibrate lane keeping assist camera,En traitement
+667,P0940,Unusual tire wear,Lane keeping assist camera misaligned,Camera Systems,Replace heated seat element,En traitement
+668,P0910,Loud clicking noise during hybrid mode switch,Heater element failure in seat,MG2,Adjust tire pressure,Résolu
+669,P1803-00,Excessive exhaust smoke,Sunroof motor failure,Safety Systems,Replace trunk release actuator,En traitement
+670,P0810,Blind spot monitor warning,Connecting rod bearing wear,Exhaust System,Replace GPS antenna,En traitement
+671,P0340,Hybrid system malfunction,Loose battery terminal connection,Brakes,Replace catalytic converter,Résolu
+672,P0940,Hybrid system malfunction,GPS antenna faulty,AC System,Replace spark plugs and clean fuel injectors,En traitement
+673,P0930,Excessive exhaust smoke,Actuator for trunk release faulty,Safety Systems,Update ECU software and reset hybrid system,Non résolu
+674,P03AF,Blind spot monitor warning,Blown fuse in wiper circuit,Tires,Clean parking sensor,Résolu
+675,P0840,Blind spot monitor warning,Heater element failure in seat,Hybrid Battery,Update ECU software and reset hybrid system,Non résolu
+676,P0335,Parking assist system error,Lane keeping assist camera misaligned,Suspension,Replace spark plugs and clean fuel injectors,En traitement
+677,P0505,Navigation system not working,Heater element failure in seat,Engine,Replace thermostat,En traitement
+678,P0113,Loud clicking noise during hybrid mode switch,Rearview camera lens dirty,MG1,Recalibrate lane keeping assist camera,Non résolu
+679,P0133,Unusual tire wear,Ignition coil failure in cylinder 1,MG2,Replace ignition coil in cylinder 1,Non résolu
+680,P0730,Navigation system not working,Parking sensor dirty,Steering,Replace ignition coil in cylinder 1,En traitement
+681,P0135,Reduced power and acceleration,Ignition coil failure in cylinder 1,Transmission,Replace spark plugs and clean fuel injectors,Résolu
+682,P0950,AC not blowing cold air,Ignition coil failure in cylinder 1,Camera Systems,Clean blind spot sensor,En traitement
+683,P0860,"Engine misfire, rough idle",Communication loss between ECU and hybrid battery module,Electrical System,Replace wheel bearing,En traitement
+684,P0940,Wipers not working,GPS antenna faulty,MG1,Perform wheel alignment,En traitement
+685,P0101,"Vehicle not ready, hybrid system warning",Radar sensor blocked,Lighting System,"Locate and repair refrigerant leak, then recharge AC system",Résolu
+686,P0820,Horn not functioning,Refrigerant leak in AC system,Exhaust System,Replace clutch friction element and recalibrate transmission,Résolu
+687,P0560,Heated seats not working,Connecting rod bearing wear,Navigation System,Clean radar sensor,Non résolu
+688,P0715,Rearview camera blurry,Faulty inverter cooling pump causing insufficient coolant circulation,MG1,Replace spark plugs and clean fuel injectors,Non résolu
+689,P0850,AC not blowing cold air,Faulty inverter cooling pump causing insufficient coolant circulation,Horn System,Update ECU software and reset hybrid system,Résolu
+690,P0740,Wipers not working,Transmission clutch friction element stuck causing shifting issues,Engine,Replace turbocharger,Résolu
+691,P0201,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Wheel bearing worn out,Horn System,Replace oxygen sensor and clear fault codes,Résolu
+692,P0770,Excessive exhaust smoke,Door latch sensor faulty,Navigation System,Replace door latch sensor,Résolu
+693,P0805,Loud clicking noise during hybrid mode switch,Transmission clutch friction element stuck causing shifting issues,Safety Systems,Replace clutch friction element and recalibrate transmission,Résolu
+694,P0990,"Check engine light on, no noticeable symptoms","Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Brakes,Clean parking sensor,Non résolu
+695,P0720,Steering wheel vibration at high speed,Parking sensor dirty,Interior Electronics,Adjust tire pressure,Résolu
+696,P0455,Unusual tire wear,Alignment issues,Cooling System,Clean blind spot sensor,En traitement
+697,P0401,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Wheel bearing worn out,Engine,Replace faulty battery modules and rebalance the hybrid battery pack,Non résolu
+698,P0700,Reduced power and acceleration,Sunroof motor failure,MG1,Increase MG1 nut torque spec from 353Nm to 398Nm,Résolu
+699,P0335,Blind spot monitor warning,Clogged fuel injector and worn spark plugs,Body Control Module,Clean radar sensor,En traitement
+700,P0705,Hybrid system malfunction,Sunroof motor failure,Lighting System,Replace inverter cooling pump and refill coolant,Non résolu
+701,P0133,Parking assist system error,Loose battery terminal connection,Electrical System,Replace GPS antenna,Non résolu
+702,P0122,Trunk not opening,Improper tire inflation,Body Control Module,Perform wheel alignment,Non résolu
+703,P07AD,Lane departure warning system fault,Ignition coil failure in cylinder 1,Tires,Replace GPS antenna,Résolu
+704,P0401,Brake system warning light,Faulty inverter cooling pump causing insufficient coolant circulation,Electrical System,Replace catalytic converter,Résolu
+705,P1803-00,"Vehicle not ready, hybrid system warning",Radar sensor blocked,Engine,Replace inverter cooling pump and refill coolant,Résolu
+706,P0133,Headlights flickering,Faulty inverter cooling pump causing insufficient coolant circulation,Tires,Replace wheel bearing,En traitement
+707,P0760,Steering wheel vibration at high speed,Clogged fuel injector and worn spark plugs,Brakes,"Locate and repair refrigerant leak, then recharge AC system",En traitement
+708,P0900,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Sunroof motor failure,Electrical System,Replace GPS antenna,En traitement
+709,P0870,Adaptive cruise control unavailable,Faulty horn relay,Hybrid Battery,Replace spark plugs and clean fuel injectors,En traitement
+710,P0700,Power windows not responding,Turbocharger seal failure,Cooling System,Clean parking sensor,En traitement
+711,P0880,Heated seats not working,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Steering,Replace turbocharger,En traitement
+712,P0830,Engine knocking sound,Heater element failure in seat,Wiper System,Replace clutch friction element and recalibrate transmission,En traitement
+713,P0980,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Faulty inverter cooling pump causing insufficient coolant circulation,Wiper System,Replace faulty battery modules and rebalance the hybrid battery pack,En traitement
+714,P0340,Wipers not working,Door latch sensor faulty,Horn System,Replace thermostat,Non résolu
+715,P0606,Power windows not responding,Radar sensor blocked,Navigation System,Replace turbocharger,Non résolu
+716,P0940,Headlights flickering,Loose battery terminal connection,Driver Assistance Systems,Replace inverter cooling pump and refill coolant,Non résolu
+717,P0335,Unusual tire wear,Faulty horn relay,Trunk System,Clean parking sensor,Non résolu
+718,P0910,Loud clicking noise during hybrid mode switch,Clogged fuel injector and worn spark plugs,MG2,Clean radar sensor,Résolu
+719,P0A80,Vehicle pulls to one side,Catalytic converter efficiency below threshold,Lighting System,Replace horn relay,En traitement
+720,P0840,Headlights flickering,Sunroof motor failure,ECU,Clean rearview camera lens,Non résolu
+721,P0830,Steering wheel vibration at high speed,Alignment issues,Suspension,"Locate and repair refrigerant leak, then recharge AC system",Résolu
+722,P0940,Heated seats not working,Door latch sensor faulty,Suspension,Replace horn relay,Non résolu
+723,P0910,"Engine misfire, rough idle",Actuator for trunk release faulty,Transmission,Replace ignition coil in cylinder 1,Non résolu
+724,P0A93,Vehicle pulls to one side,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",AC System,Replace oxygen sensor and clear fault codes,En traitement
+725,P0172,Fuel gauge inaccurate,Turbocharger seal failure,MG1,Adjust tire pressure,Résolu
+726,P0335,"Engine misfire, rough idle",Wheel bearing worn out,Hybrid Battery,Replace sunroof motor,En traitement
+727,P0930,Parking assist system error,Communication loss between ECU and hybrid battery module,Brakes,Replace heated seat element,Non résolu
+728,P0730,Sunroof stuck open,GPS antenna faulty,Tires,Replace wiper fuse,Non résolu
+729,P1300,Vehicle pulls to one side,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Exhaust System,Replace spark plugs and clean fuel injectors,Non résolu
+730,P0750,Wipers not working,"Thermostat stuck open, engine running cold",Wiper System,Replace inverter cooling pump and refill coolant,En traitement
+731,P07AD,Engine knocking sound,Blown fuse in wiper circuit,Wiper System,Update ECU software and reset hybrid system,En traitement
+732,P0455,Heated seats not working,Connecting rod bearing wear,Cooling System,Replace door latch sensor,Résolu
+733,P0601,Vehicle pulls to one side,Radar sensor blocked,Cooling System,Increase MG1 nut torque spec from 353Nm to 398Nm,En traitement
+734,P0810,Parking assist system error,Door latch sensor faulty,Safety Systems,Replace door latch sensor,En traitement
+735,P0325,Fuel gauge inaccurate,Radar sensor blocked,Sunroof System,Replace sunroof motor,Résolu
+736,P0900,Trunk not opening,Door latch sensor faulty,Hybrid Battery,Replace sunroof motor,Résolu
+737,P0620,Steering wheel vibration at high speed,Alignment issues,Sunroof System,Replace sunroof motor,Non résolu
+738,P1500,Loud clicking noise during hybrid mode switch,GPS antenna faulty,Inverter,Replace clutch friction element and recalibrate transmission,En traitement
+739,P0830,Blind spot monitor warning,Blind spot sensor obstructed,Lighting System,Adjust tire pressure,En traitement
+740,P0980,Blind spot monitor warning,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Trunk System,Replace catalytic converter,Résolu
+741,P0990,"Engine misfire, rough idle",Rearview camera lens dirty,Suspension,Clean rearview camera lens,Non résolu
+742,P0940,Wipers not working,GPS antenna faulty,MG2,Replace thermostat,Résolu
+743,P0133,Power windows not responding,Catalytic converter efficiency below threshold,Tires,Adjust tire pressure,Résolu
+744,P0920,Parking assist system error,"Thermostat stuck open, engine running cold",Brakes,Replace inverter cooling pump and refill coolant,En traitement
+745,P0910,Unusual tire wear,"Thermostat stuck open, engine running cold",Horn System,Perform wheel alignment,En traitement
+746,P0705,Navigation system not working,"Thermostat stuck open, engine running cold",ECU,Clean blind spot sensor,Non résolu
+747,P0171,Steering wheel vibration at high speed,Refrigerant leak in AC system,Tires,"Locate and repair refrigerant leak, then recharge AC system",En traitement
+748,P0910,Wipers not working,"Oxygen sensor malfunction, leading to incorrect fuel mixture",ECU,Clean battery terminals,Non résolu
+749,P0201,Rearview camera blurry,"Thermostat stuck open, engine running cold",Electrical System,"Locate and repair refrigerant leak, then recharge AC system",Non résolu
+750,P0301,Horn not functioning,Loose battery terminal connection,Horn System,Replace door latch sensor,En traitement
+751,P0810,Fuel gauge inaccurate,Radar sensor blocked,Wiper System,Replace turbocharger,Résolu
+752,P0606,Sunroof stuck open,Clogged fuel injector and worn spark plugs,Camera Systems,Replace connecting rod bearings,Résolu
+753,P1803-00,Power windows not responding,Blind spot sensor obstructed,Cooling System,Recalibrate lane keeping assist camera,En traitement
+754,P0620,Engine knocking sound,Faulty inverter cooling pump causing insufficient coolant circulation,AC System,Increase MG1 nut torque spec from 353Nm to 398Nm,Résolu
+755,P0133,Vehicle pulls to one side,Lane keeping assist camera misaligned,Cooling System,Replace spark plugs and clean fuel injectors,En traitement
+756,P03AF,"Engine misfire, rough idle",Improper tire inflation,Exhaust System,Clean blind spot sensor,Résolu
+757,P0113,Reduced power and acceleration,Sunroof motor failure,Driver Assistance Systems,Replace inverter cooling pump and refill coolant,En traitement
+758,P0740,Excessive exhaust smoke,Connecting rod bearing wear,Suspension,Replace GPS antenna,Résolu
+759,P0401,Parking assist system error,Faulty horn relay,Hybrid Battery,Clean rearview camera lens,En traitement
+760,P0805,"Check engine light on, no noticeable symptoms",Blind spot sensor obstructed,Trunk System,Clean rearview camera lens,Résolu
+761,P0920,Loud clicking noise during hybrid mode switch,Turbocharger seal failure,Wiper System,Replace sunroof motor,En traitement
+762,P0705,Blind spot monitor warning,Turbocharger seal failure,Suspension,Replace heated seat element,Non résolu
+763,P0650,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Turbocharger seal failure,Driver Assistance Systems,Clean blind spot sensor,Résolu
+764,P1000,Wipers not working,Loose battery terminal connection,MG2,Replace thermostat,Résolu
+765,P0172,Lane departure warning system fault,Refrigerant leak in AC system,Trunk System,Replace sunroof motor,Non résolu
+766,P0172,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Alignment issues,Trunk System,Adjust tire pressure,Résolu
+767,P0840,Fuel gauge inaccurate,Turbocharger seal failure,Driver Assistance Systems,Replace thermostat,En traitement
+768,P0770,Brake system warning light,Wheel bearing worn out,Interior Electronics,Replace faulty battery modules and rebalance the hybrid battery pack,Résolu
+769,P0335,Rearview camera blurry,Catalytic converter efficiency below threshold,Safety Systems,Replace wheel bearing,En traitement
+770,P0740,Wipers not working,"Thermostat stuck open, engine running cold",Brakes,Replace catalytic converter,Résolu
+771,P0335,Vehicle pulls to one side,Refrigerant leak in AC system,MG2,Adjust tire pressure,En traitement
+772,P0601,Vehicle pulls to one side,Catalytic converter efficiency below threshold,Exhaust System,Clean blind spot sensor,Non résolu
+773,P0840,Reduced power and acceleration,Motor for power window faulty,Wiper System,Replace power window motor,Résolu
+774,P0122,Vehicle pulls to one side,Battery internal resistance too high causing voltage imbalance,Inverter,Replace connecting rod bearings,Non résolu
+775,P0880,Adaptive cruise control unavailable,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Body Control Module,Replace wiper fuse,Non résolu
+776,P1300,Engine knocking sound,Ignition coil failure in cylinder 1,Cooling System,"Locate and repair refrigerant leak, then recharge AC system",Résolu
+777,P0220,Wipers not working,Faulty inverter cooling pump causing insufficient coolant circulation,ECU,Clean blind spot sensor,En traitement
+778,P0890,"Check engine light on, no noticeable symptoms",Catalytic converter efficiency below threshold,Tires,Replace oxygen sensor and clear fault codes,En traitement
+779,P0606,"Check engine light on, no noticeable symptoms",Turbocharger seal failure,Exhaust System,Replace faulty battery modules and rebalance the hybrid battery pack,Non résolu
+780,P0601,Sunroof stuck open,Transmission clutch friction element stuck causing shifting issues,Hybrid Battery,Replace power window motor,Résolu
+781,P0172,Hybrid system malfunction,Heater element failure in seat,Interior Electronics,"Locate and repair refrigerant leak, then recharge AC system",Résolu
+782,P0890,Hybrid system malfunction,Catalytic converter efficiency below threshold,Engine,Replace horn relay,En traitement
+783,P0122,Fuel gauge inaccurate,Blown fuse in wiper circuit,Horn System,Replace thermostat,Non résolu
+784,P0950,Reduced power and acceleration,Parking sensor dirty,Electrical System,Replace door latch sensor,En traitement
+785,P0135,Fuel gauge inaccurate,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Suspension,Replace wheel bearing,Résolu
+786,P0172,Loud clicking noise during hybrid mode switch,Motor for power window faulty,AC System,Clean rearview camera lens,Non résolu
+787,P0830,Loud clicking noise during hybrid mode switch,Clogged fuel injector and worn spark plugs,Safety Systems,Update ECU software and reset hybrid system,Résolu
+788,P0335,Lane departure warning system fault,Turbocharger seal failure,MG2,Clean parking sensor,En traitement
+789,P0133,Sunroof stuck open,Radar sensor blocked,Horn System,Clean parking sensor,En traitement
+790,P0950,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Faulty horn relay,Wiper System,Replace inverter cooling pump and refill coolant,Non résolu
+791,P0335,Lane departure warning system fault,Ignition coil failure in cylinder 1,Safety Systems,Replace wiper fuse,Non résolu
+792,P0301,Steering wheel vibration at high speed,Rearview camera lens dirty,Suspension,Replace trunk release actuator,Résolu
+793,P0133,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Improper tire inflation,Camera Systems,Replace ignition coil in cylinder 1,Résolu
+794,P0960,Navigation system not working,Radar sensor blocked,Horn System,Increase MG1 nut torque spec from 353Nm to 398Nm,Résolu
+795,P0980,Rearview camera blurry,Ignition coil failure in cylinder 1,Interior Electronics,Replace turbocharger,Résolu
+796,P07AD,Parking assist system error,Parking sensor dirty,Transmission,Clean blind spot sensor,En traitement
+797,P0A80,Hybrid system malfunction,Lane keeping assist camera misaligned,Tires,Perform wheel alignment,Non résolu
+798,P0650,Loud clicking noise during hybrid mode switch,Motor for power window faulty,Electrical System,Increase MG1 nut torque spec from 353Nm to 398Nm,Résolu
+799,P1000,Steering wheel vibration at high speed,Sunroof motor failure,Steering,Replace wiper fuse,En traitement
+800,P07AD,Horn not functioning,Connecting rod bearing wear,Sunroof System,Replace clutch friction element and recalibrate transmission,En traitement
+801,P0420,Parking assist system error,Lane keeping assist camera misaligned,Camera Systems,Replace ignition coil in cylinder 1,Non résolu
+802,P0840,Brake system warning light,Ignition coil failure in cylinder 1,Steering,Replace door latch sensor,En traitement
+803,P0860,Door ajar warning light on constantly,Motor for power window faulty,Navigation System,Replace spark plugs and clean fuel injectors,En traitement
+804,P0113,"Check engine light on, no noticeable symptoms",Parking sensor dirty,Horn System,Update ECU software and reset hybrid system,En traitement
+805,P07A3,Hybrid system malfunction,Ignition coil failure in cylinder 1,Body Control Module,"Locate and repair refrigerant leak, then recharge AC system",En traitement
+806,P0560,"Vehicle not ready, hybrid system warning",Ignition coil failure in cylinder 1,Hybrid Battery,Perform wheel alignment,En traitement
+807,P0910,Door ajar warning light on constantly,Clogged fuel injector and worn spark plugs,Tires,Replace clutch friction element and recalibrate transmission,Non résolu
+808,P0850,Heated seats not working,Lane keeping assist camera misaligned,Safety Systems,Replace horn relay,En traitement
+809,P0133,Fuel gauge inaccurate,Radar sensor blocked,Trunk System,Replace catalytic converter,Non résolu
+810,P0840,Hybrid system malfunction,Door latch sensor faulty,Lighting System,Replace inverter cooling pump and refill coolant,En traitement
+811,P0620,Parking assist system error,Faulty inverter cooling pump causing insufficient coolant circulation,Tires,Clean parking sensor,Non résolu
+812,P0940,Heated seats not working,Transmission clutch friction element stuck causing shifting issues,Tires,Replace sunroof motor,Non résolu
+813,P0910,Trunk not opening,Transmission clutch friction element stuck causing shifting issues,MG2,Replace connecting rod bearings,Non résolu
+814,P0650,STOP SAFELY VEHICLE WILL SHUT OFF SOON,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Navigation System,Clean blind spot sensor,En traitement
+815,P0650,Heated seats not working,Transmission clutch friction element stuck causing shifting issues,Electrical System,Replace ignition coil in cylinder 1,En traitement
+816,P0335,Trunk not opening,Loose battery terminal connection,MG2,Replace heated seat element,En traitement
+817,P0840,Blind spot monitor warning,Parking sensor dirty,Suspension,Clean battery terminals,En traitement
+818,P0A80,Rearview camera blurry,"Thermostat stuck open, engine running cold",Electrical System,Clean rearview camera lens,Non résolu
+819,P0301,Rearview camera blurry,Rearview camera lens dirty,Engine,Replace heated seat element,Non résolu
+820,P0840,Vehicle pulls to one side,Lane keeping assist camera misaligned,MG2,Replace inverter cooling pump and refill coolant,Non résolu
+821,P0930,Battery overheats after 20 min of driving,Battery internal resistance too high causing voltage imbalance,Engine,Replace wiper fuse,En traitement
+822,P1200,Navigation system not working,Battery internal resistance too high causing voltage imbalance,ECU,Recalibrate lane keeping assist camera,Non résolu
+823,P0335,Power windows not responding,"Thermostat stuck open, engine running cold",Sunroof System,Replace heated seat element,Résolu
+824,P0960,Loud clicking noise during hybrid mode switch,Motor for power window faulty,Camera Systems,Replace GPS antenna,En traitement
+825,P0505,Door ajar warning light on constantly,Improper tire inflation,ECU,Increase MG1 nut torque spec from 353Nm to 398Nm,En traitement
+826,P0740,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Radar sensor blocked,Suspension,Increase MG1 nut torque spec from 353Nm to 398Nm,Non résolu
+827,P0455,Trunk not opening,Blind spot sensor obstructed,MG2,Replace door latch sensor,En traitement
+828,P03AF,Vehicle pulls to one side,Lane keeping assist camera misaligned,Body Control Module,Replace heated seat element,Non résolu
+829,P0860,Fuel gauge inaccurate,Sunroof motor failure,Horn System,Replace turbocharger,En traitement
+830,P0920,Trunk not opening,Actuator for trunk release faulty,Cooling System,Perform wheel alignment,En traitement
+831,P1200,"Vehicle not ready, hybrid system warning",Turbocharger seal failure,Sunroof System,"Locate and repair refrigerant leak, then recharge AC system",Non résolu
+832,P0730,"Check engine light on, no noticeable symptoms",Battery internal resistance too high causing voltage imbalance,Engine,Replace horn relay,Non résolu
+833,P0900,Parking assist system error,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Sunroof System,Replace turbocharger,Non résolu
+834,P0135,Brake system warning light,Refrigerant leak in AC system,Electrical System,Replace clutch friction element and recalibrate transmission,En traitement
+835,P0740,Door ajar warning light on constantly,Catalytic converter efficiency below threshold,Wiper System,Increase MG1 nut torque spec from 353Nm to 398Nm,En traitement
+836,P0970,"Check engine light on, no noticeable symptoms","Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Driver Assistance Systems,Clean parking sensor,Résolu
+837,P0446,Battery overheats after 20 min of driving,Transmission clutch friction element stuck causing shifting issues,Engine,Replace catalytic converter,En traitement
+838,P0720,Vehicle pulls to one side,Faulty horn relay,AC System,Replace ignition coil in cylinder 1,En traitement
+839,P1600,Fuel gauge inaccurate,Faulty horn relay,Electrical System,"Locate and repair refrigerant leak, then recharge AC system",Non résolu
+840,P0560,Loud clicking noise during hybrid mode switch,Faulty horn relay,Sunroof System,Replace GPS antenna,En traitement
+841,P0560,Navigation system not working,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Engine,Replace turbocharger,En traitement
+842,P0750,Loud clicking noise during hybrid mode switch,Transmission clutch friction element stuck causing shifting issues,Horn System,Replace heated seat element,Non résolu
+843,P0113,Loud clicking noise during hybrid mode switch,Lane keeping assist camera misaligned,Camera Systems,Replace faulty battery modules and rebalance the hybrid battery pack,En traitement
+844,P0740,Vehicle pulls to one side,Wheel bearing worn out,Suspension,Replace sunroof motor,En traitement
+845,P0340,"Vehicle not ready, hybrid system warning",Blind spot sensor obstructed,Interior Electronics,"Locate and repair refrigerant leak, then recharge AC system",Non résolu
+846,P0715,Headlights flickering,Communication loss between ECU and hybrid battery module,AC System,Replace oxygen sensor and clear fault codes,En traitement
+847,P0960,Wipers not working,Blind spot sensor obstructed,Suspension,Clean radar sensor,Résolu
+848,P0A80,Reduced power and acceleration,Ignition coil failure in cylinder 1,Transmission,Replace clutch friction element and recalibrate transmission,Résolu
+849,P07A3,Hybrid system malfunction,Rearview camera lens dirty,Electrical System,Update ECU software and reset hybrid system,Résolu
+850,P0770,AC not blowing cold air,Lane keeping assist camera misaligned,Trunk System,Replace ignition coil in cylinder 1,Non résolu
+851,P0720,Heated seats not working,"Thermostat stuck open, engine running cold",Wiper System,Replace spark plugs and clean fuel injectors,Résolu
+852,P0446,"Engine misfire, rough idle",Loose battery terminal connection,Exhaust System,Replace sunroof motor,Résolu
+853,P0505,Heated seats not working,Connecting rod bearing wear,Cooling System,Adjust tire pressure,Non résolu
+854,P0840,AC not blowing cold air,Sunroof motor failure,Tires,Replace wiper fuse,En traitement
+855,P1300,AC not blowing cold air,Loose battery terminal connection,Engine,Replace horn relay,Résolu
+856,P0850,Engine knocking sound,Refrigerant leak in AC system,Sunroof System,Clean battery terminals,Non résolu
+857,P0446,Unusual tire wear,Faulty inverter cooling pump causing insufficient coolant circulation,Body Control Module,Replace thermostat,Non résolu
+858,P0201,Adaptive cruise control unavailable,Catalytic converter efficiency below threshold,Electrical System,Clean radar sensor,Non résolu
+859,P0171,Heated seats not working,Communication loss between ECU and hybrid battery module,MG2,Update ECU software and reset hybrid system,Non résolu
+860,P0500,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Clogged fuel injector and worn spark plugs,ECU,Replace GPS antenna,Non résolu
+861,P0420,AC not blowing cold air,Transmission clutch friction element stuck causing shifting issues,Body Control Module,Clean radar sensor,Non résolu
+862,P0440,Lane departure warning system fault,Clogged fuel injector and worn spark plugs,Driver Assistance Systems,Replace wiper fuse,En traitement
+863,P1500,Lane departure warning system fault,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Steering,Replace door latch sensor,En traitement
+864,P1700,"Check engine light on, no noticeable symptoms",Lane keeping assist camera misaligned,Steering,Replace power window motor,Résolu
+865,P0440,Sunroof stuck open,Blown fuse in wiper circuit,Steering,Replace heated seat element,Non résolu
+866,P07AD,Vehicle pulls to one side,Sunroof motor failure,Suspension,Replace catalytic converter,Résolu
+867,P0900,Excessive exhaust smoke,Rearview camera lens dirty,MG2,Replace door latch sensor,En traitement
+868,P0A80,Battery overheats after 20 min of driving,Parking sensor dirty,Camera Systems,Perform wheel alignment,En traitement
+869,P0122,"Engine misfire, rough idle",Loose battery terminal connection,Suspension,Replace oxygen sensor and clear fault codes,En traitement
+870,P1803-00,Battery overheats after 20 min of driving,Clogged fuel injector and worn spark plugs,Wiper System,Replace turbocharger,Résolu
+871,P0446,Blind spot monitor warning,Blind spot sensor obstructed,Transmission,Replace sunroof motor,En traitement
+872,P0446,Vehicle pulls to one side,Transmission clutch friction element stuck causing shifting issues,Lighting System,Replace thermostat,En traitement
+873,P0860,Rearview camera blurry,Improper tire inflation,Transmission,Increase MG1 nut torque spec from 353Nm to 398Nm,Non résolu
+874,P0700,Blind spot monitor warning,Sunroof motor failure,Cooling System,Replace wheel bearing,En traitement
+875,P0172,Headlights flickering,Parking sensor dirty,Interior Electronics,Clean rearview camera lens,En traitement
+876,P0960,Sunroof stuck open,Radar sensor blocked,Cooling System,Update ECU software and reset hybrid system,Non résolu
+877,P03AF,Steering wheel vibration at high speed,Loose battery terminal connection,Body Control Module,"Locate and repair refrigerant leak, then recharge AC system",Résolu
+878,P0850,Brake system warning light,Wheel bearing worn out,MG1,Replace oxygen sensor and clear fault codes,Résolu
+879,P0900,Rearview camera blurry,Improper tire inflation,Body Control Module,Clean blind spot sensor,En traitement
+880,P0446,AC not blowing cold air,Faulty horn relay,Sunroof System,Replace catalytic converter,Non résolu
+881,P0301,Power windows not responding,Door latch sensor faulty,Navigation System,Increase MG1 nut torque spec from 353Nm to 398Nm,En traitement
+882,P0122,Unusual tire wear,"Thermostat stuck open, engine running cold",Brakes,Replace thermostat,Résolu
+883,P0606,Blind spot monitor warning,Wheel bearing worn out,Inverter,Clean parking sensor,En traitement
+884,P0830,Door ajar warning light on constantly,Motor for power window faulty,Interior Electronics,Clean battery terminals,Résolu
+885,P0560,Headlights flickering,Transmission clutch friction element stuck causing shifting issues,Sunroof System,Adjust tire pressure,En traitement
+886,P0780,Engine knocking sound,Sunroof motor failure,Exhaust System,Clean rearview camera lens,Non résolu
+887,P1300,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Blown fuse in wiper circuit,Horn System,Replace oxygen sensor and clear fault codes,En traitement
+888,P0700,Battery overheats after 20 min of driving,Communication loss between ECU and hybrid battery module,Wiper System,Replace sunroof motor,Résolu
+889,P07AD,Power windows not responding,Wheel bearing worn out,AC System,Replace catalytic converter,Non résolu
+890,P0446,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Sunroof motor failure,MG1,Update ECU software and reset hybrid system,Résolu
+891,P1400,Door ajar warning light on constantly,"Oxygen sensor malfunction, leading to incorrect fuel mixture",MG1,Clean parking sensor,Non résolu
+892,P0950,"Vehicle not ready, hybrid system warning",Connecting rod bearing wear,ECU,Perform wheel alignment,Résolu
+893,P0720,Headlights flickering,Lane keeping assist camera misaligned,Horn System,Replace connecting rod bearings,Résolu
+894,P0171,Loud clicking noise during hybrid mode switch,Parking sensor dirty,Trunk System,Clean rearview camera lens,En traitement
+895,P0720,"Engine misfire, rough idle",GPS antenna faulty,Steering,Replace turbocharger,Résolu
+896,P0860,Heated seats not working,Connecting rod bearing wear,Suspension,"Locate and repair refrigerant leak, then recharge AC system",Résolu
+897,P0850,Steering wheel vibration at high speed,GPS antenna faulty,Trunk System,Clean rearview camera lens,Non résolu
+898,P0335,Unusual tire wear,"Thermostat stuck open, engine running cold",Lighting System,Replace catalytic converter,En traitement
+899,P0620,Unusual tire wear,Turbocharger seal failure,Safety Systems,Replace ignition coil in cylinder 1,En traitement
+900,P0505,Lane departure warning system fault,Sunroof motor failure,Lighting System,Replace trunk release actuator,Résolu
+901,P0930,Adaptive cruise control unavailable,Improper tire inflation,Cooling System,Replace inverter cooling pump and refill coolant,Résolu
+902,P0960,Steering wheel vibration at high speed,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",AC System,Replace ignition coil in cylinder 1,Résolu
+903,P0455,"Check engine light on, no noticeable symptoms","Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Wiper System,Replace catalytic converter,Non résolu
+904,P0601,"Engine misfire, rough idle",Refrigerant leak in AC system,Trunk System,Increase MG1 nut torque spec from 353Nm to 398Nm,En traitement
+905,P0790,Blind spot monitor warning,Radar sensor blocked,Wiper System,Replace thermostat,Non résolu
+906,P0505,Rearview camera blurry,Transmission clutch friction element stuck causing shifting issues,Exhaust System,Replace wiper fuse,En traitement
+907,P0301,Blind spot monitor warning,Faulty horn relay,MG1,Recalibrate lane keeping assist camera,En traitement
+908,P0940,Brake system warning light,Alignment issues,Camera Systems,Clean parking sensor,Non résolu
+909,P1000,Navigation system not working,Transmission clutch friction element stuck causing shifting issues,Safety Systems,Replace connecting rod bearings,En traitement
+910,P0705,Wipers not working,Improper tire inflation,Hybrid Battery,Perform wheel alignment,En traitement
+911,P1700,Trunk not opening,GPS antenna faulty,Camera Systems,Replace horn relay,Non résolu
+912,P0220,Lane departure warning system fault,Connecting rod bearing wear,MG2,Perform wheel alignment,Résolu
+913,P0122,Door ajar warning light on constantly,Sunroof motor failure,Engine,Replace wheel bearing,Non résolu
+914,P1803-00,Fuel gauge inaccurate,Communication loss between ECU and hybrid battery module,Lighting System,Clean radar sensor,Non résolu
+915,P0505,Brake system warning light,Faulty horn relay,Tires,Replace oxygen sensor and clear fault codes,Résolu
+916,P0101,Sunroof stuck open,Refrigerant leak in AC system,Electrical System,Replace GPS antenna,Résolu
+917,P1000,Excessive exhaust smoke,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Lighting System,Adjust tire pressure,Non résolu
+918,P0730,Adaptive cruise control unavailable,Refrigerant leak in AC system,Camera Systems,Replace sunroof motor,Non résolu
+919,P0820,Hybrid system malfunction,Door latch sensor faulty,Exhaust System,"Locate and repair refrigerant leak, then recharge AC system",En traitement
+920,P03AF,Parking assist system error,Sunroof motor failure,Body Control Module,Clean battery terminals,Non résolu
+921,P0870,Steering wheel vibration at high speed,Faulty inverter cooling pump causing insufficient coolant circulation,Exhaust System,Replace spark plugs and clean fuel injectors,En traitement
+922,P0770,Fuel gauge inaccurate,Communication loss between ECU and hybrid battery module,Exhaust System,Increase MG1 nut torque spec from 353Nm to 398Nm,Non résolu
+923,P0920,"Check engine light on, no noticeable symptoms","Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Horn System,Replace horn relay,En traitement
+924,P0870,Heated seats not working,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Transmission,Clean parking sensor,Non résolu
+925,P0A93,Brake system warning light,Faulty horn relay,Transmission,Replace inverter cooling pump and refill coolant,En traitement
+926,P0335,Parking assist system error,Faulty horn relay,Trunk System,Clean parking sensor,Non résolu
+927,P0172,"Check engine light on, no noticeable symptoms",Faulty inverter cooling pump causing insufficient coolant circulation,Lighting System,Clean battery terminals,Résolu
+928,P1300,Headlights flickering,Faulty inverter cooling pump causing insufficient coolant circulation,Electrical System,Replace oxygen sensor and clear fault codes,Résolu
+929,P1400,Sunroof stuck open,Clogged fuel injector and worn spark plugs,Suspension,Replace horn relay,En traitement
+930,P0101,Excessive exhaust smoke,Blown fuse in wiper circuit,Driver Assistance Systems,Clean radar sensor,Non résolu
+931,P1100,Headlights flickering,Transmission clutch friction element stuck causing shifting issues,Engine,Replace catalytic converter,En traitement
+932,P0770,Door ajar warning light on constantly,GPS antenna faulty,MG1,Adjust tire pressure,Non résolu
+933,P0700,"Vehicle not ready, hybrid system warning","Thermostat stuck open, engine running cold",Suspension,Replace horn relay,En traitement
+934,P1000,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Radar sensor blocked,AC System,Clean battery terminals,Non résolu
+935,P0730,Battery overheats after 20 min of driving,Refrigerant leak in AC system,Safety Systems,Clean rearview camera lens,Résolu
+936,P0940,Wipers not working,Radar sensor blocked,Engine,Replace faulty battery modules and rebalance the hybrid battery pack,Résolu
+937,P0970,Parking assist system error,Battery internal resistance too high causing voltage imbalance,Wiper System,Replace ignition coil in cylinder 1,En traitement
+938,P0910,Sunroof stuck open,Turbocharger seal failure,Interior Electronics,Clean blind spot sensor,Non résolu
+939,P0113,Horn not functioning,Door latch sensor faulty,Sunroof System,Recalibrate lane keeping assist camera,Non résolu
+940,P0340,Fuel gauge inaccurate,Sunroof motor failure,MG2,Replace trunk release actuator,En traitement
+941,P1500,"Engine misfire, rough idle",Lane keeping assist camera misaligned,Navigation System,Replace power window motor,Résolu
+942,P0500,Unusual tire wear,Lane keeping assist camera misaligned,AC System,Replace horn relay,En traitement
+943,P0A80,AC not blowing cold air,Sunroof motor failure,Engine,Replace spark plugs and clean fuel injectors,En traitement
+944,P03AF,Battery overheats after 20 min of driving,Parking sensor dirty,MG1,Replace heated seat element,Résolu
+945,P0135,AC not blowing cold air,Battery internal resistance too high causing voltage imbalance,Transmission,Replace trunk release actuator,Non résolu
+946,P0340,Battery overheats after 20 min of driving,Wheel bearing worn out,Horn System,Replace wheel bearing,Résolu
+947,P0135,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Blown fuse in wiper circuit,Driver Assistance Systems,Replace door latch sensor,Résolu
+948,P0970,Brake system warning light,Wheel bearing worn out,Steering,Replace spark plugs and clean fuel injectors,Résolu
+949,P0401,Navigation system not working,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Cooling System,Clean parking sensor,Résolu
+950,P0715,AC not blowing cold air,Parking sensor dirty,Driver Assistance Systems,Clean battery terminals,Résolu
+951,P07A3,Lane departure warning system fault,Motor for power window faulty,MG2,Replace trunk release actuator,En traitement
+952,P0A93,Loud clicking noise during hybrid mode switch,Transmission clutch friction element stuck causing shifting issues,AC System,Clean parking sensor,Non résolu
+953,P1600,Hybrid system malfunction,Actuator for trunk release faulty,Driver Assistance Systems,"Locate and repair refrigerant leak, then recharge AC system",En traitement
+954,P0910,Power windows not responding,Parking sensor dirty,Tires,Replace thermostat,Résolu
+955,P0870,Navigation system not working,Parking sensor dirty,MG1,Clean blind spot sensor,Résolu
+956,P1700,Brake system warning light,Faulty horn relay,Camera Systems,Clean battery terminals,Résolu
+957,P0790,Door ajar warning light on constantly,Faulty inverter cooling pump causing insufficient coolant circulation,Steering,Replace inverter cooling pump and refill coolant,Résolu
+958,P0172,Loud clicking noise during hybrid mode switch,Transmission clutch friction element stuck causing shifting issues,Interior Electronics,Replace thermostat,Résolu
+959,P0220,Reduced power and acceleration,"Oxygen sensor malfunction, leading to incorrect fuel mixture",Suspension,Increase MG1 nut torque spec from 353Nm to 398Nm,Résolu
+960,P0340,Unusual tire wear,Faulty inverter cooling pump causing insufficient coolant circulation,Hybrid Battery,Replace door latch sensor,Non résolu
+961,P0135,Sunroof stuck open,Parking sensor dirty,AC System,Replace oxygen sensor and clear fault codes,En traitement
+962,P0401,Excessive exhaust smoke,Ignition coil failure in cylinder 1,Hybrid Battery,Perform wheel alignment,Résolu
+963,P0340,"Vehicle not ready, hybrid system warning","Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Horn System,Clean blind spot sensor,En traitement
+964,P0950,Horn not functioning,Catalytic converter efficiency below threshold,Wiper System,Replace GPS antenna,Non résolu
+965,P0960,Steering wheel vibration at high speed,Motor for power window faulty,ECU,Clean radar sensor,Non résolu
+966,P0780,Loud clicking noise during hybrid mode switch,"Thermostat stuck open, engine running cold",Brakes,Clean radar sensor,Résolu
+967,P0740,Unusual tire wear,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Brakes,Replace horn relay,Non résolu
+968,P0830,Parking assist system error,Turbocharger seal failure,Cooling System,Perform wheel alignment,En traitement
+969,P0900,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Wheel bearing worn out,Hybrid Battery,Replace ignition coil in cylinder 1,Résolu
+970,P0A93,Heated seats not working,Battery internal resistance too high causing voltage imbalance,Sunroof System,Update ECU software and reset hybrid system,Non résolu
+971,P0840,STOP SAFELY VEHICLE WILL SHUT OFF SOON,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Exhaust System,Recalibrate lane keeping assist camera,Non résolu
+972,P0440,Reduced power and acceleration,GPS antenna faulty,Cooling System,Replace horn relay,En traitement
+973,P1100,Brake system warning light,Faulty inverter cooling pump causing insufficient coolant circulation,Exhaust System,Replace GPS antenna,En traitement
+974,P0805,Fuel gauge inaccurate,Clogged fuel injector and worn spark plugs,Tires,Replace wheel bearing,Résolu
+975,P0601,Rearview camera blurry,"Thermostat stuck open, engine running cold",Camera Systems,Update ECU software and reset hybrid system,Non résolu
+976,P0850,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Heater element failure in seat,Cooling System,Replace connecting rod bearings,En traitement
+977,P0601,Brake system warning light,Clogged fuel injector and worn spark plugs,Interior Electronics,Replace catalytic converter,Non résolu
+978,P0420,Door ajar warning light on constantly,Actuator for trunk release faulty,Sunroof System,Clean blind spot sensor,En traitement
+979,P0920,Wipers not working,Faulty horn relay,Wiper System,Increase MG1 nut torque spec from 353Nm to 398Nm,Résolu
+980,P0455,Unusual tire wear,Loose battery terminal connection,Sunroof System,Clean battery terminals,En traitement
+981,P0920,Vehicle pulls to one side,Improper tire inflation,Hybrid Battery,Replace wiper fuse,Non résolu
+982,P1700,Battery overheats after 20 min of driving,Battery internal resistance too high causing voltage imbalance,Navigation System,Replace horn relay,Non résolu
+983,P0715,Engine knocking sound,Rearview camera lens dirty,Cooling System,Replace connecting rod bearings,En traitement
+984,P0970,Trunk not opening,Sunroof motor failure,Steering,Replace sunroof motor,En traitement
+985,P0700,Adaptive cruise control unavailable,"Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Horn System,Replace wheel bearing,Résolu
+986,P0172,Reduced power and acceleration,Connecting rod bearing wear,Body Control Module,Replace oxygen sensor and clear fault codes,En traitement
+987,P1100,Navigation system not working,Refrigerant leak in AC system,ECU,Replace turbocharger,Non résolu
+988,P0560,"Check engine light on, no noticeable symptoms",Sunroof motor failure,Suspension,Replace power window motor,En traitement
+989,P07AD,Horn not functioning,Faulty horn relay,Tires,Replace horn relay,Non résolu
+990,P03AF,Parking assist system error,Refrigerant leak in AC system,Cooling System,Replace turbocharger,Résolu
+991,P0740,Engine knocking sound,Faulty horn relay,Lighting System,Replace connecting rod bearings,Non résolu
+992,P03AF,"Engine misfire, rough idle",Parking sensor dirty,Horn System,Replace catalytic converter,En traitement
+993,P0620,"Check engine light on, no noticeable symptoms","Low tightening torque of nut MG1 causing rotor slip (coefficient friction too low, SF=0.77)",Wiper System,Replace oxygen sensor and clear fault codes,Résolu
+994,P0715,Horn not functioning,Battery internal resistance too high causing voltage imbalance,Cooling System,Adjust tire pressure,Résolu
+995,P0340,Power windows not responding,Communication loss between ECU and hybrid battery module,Inverter,"Locate and repair refrigerant leak, then recharge AC system",En traitement
+996,P0705,Unusual tire wear,Wheel bearing worn out,Safety Systems,Replace connecting rod bearings,Non résolu
+997,P0920,STOP SAFELY VEHICLE WILL SHUT OFF SOON,Faulty horn relay,MG2,Replace connecting rod bearings,Résolu
+998,P0560,Heated seats not working,"Thermostat stuck open, engine running cold",AC System,Replace power window motor,Résolu
+999,P0700,Rearview camera blurry,Refrigerant leak in AC system,Camera Systems,Perform wheel alignment,En traitement
+1000,P0101,AC not blowing cold air,Battery internal resistance too high causing voltage imbalance,Inverter,Replace wheel bearing,Résolu
