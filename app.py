@@ -97,9 +97,10 @@ class PCAStreamlitApp:
         self.pipeline = PCAMLPipeline()
         self.gim_chatbot = GIMChatbot()
 
-        # Configuration par défaut
-        self.backend = "randomforest"  # Par défaut
-        self.hf_repo = None
+        # Configuration par défaut (détection automatique de l'environnement)
+        self.is_vercel = os.environ.get('VERCEL', False) or os.environ.get('VERCEL_ENV', False)
+        self.backend = "randomforest"  # Par défaut pour Vercel
+        self.hf_repo = os.environ.get('HF_REPO', None)  # Repository HF depuis les variables d'env
 
         # Initialisation du state
         if 'prediction_history' not in st.session_state:
@@ -181,17 +182,27 @@ class PCAStreamlitApp:
         """Affiche la barre latérale avec les informations du modèle"""
         st.sidebar.header("🤖 Configuration du Modèle")
 
+        # Détection de l'environnement
+        if self.is_vercel:
+            st.sidebar.info("🌐 Déploiement Vercel détecté")
+
         # Choix du backend
         backend_options = {
             "randomforest": "🌲 RandomForest (Rapide)",
             "distilbert": "🧠 DistilBERT (Précis)"
         }
 
+        # Sur Vercel, limiter les options si pas de HF_REPO
+        available_backends = list(backend_options.keys())
+        if self.is_vercel and not self.hf_repo:
+            available_backends = ["randomforest"]
+            st.sidebar.warning("⚠️ DistilBERT nécessite HF_REPO sur Vercel")
+
         selected_backend = st.sidebar.selectbox(
             "Type de modèle",
-            options=list(backend_options.keys()),
+            options=available_backends,
             format_func=lambda x: backend_options[x],
-            index=0 if self.backend == "randomforest" else 1,
+            index=0 if self.backend == "randomforest" else (1 if "distilbert" in available_backends else 0),
             help="RandomForest: Plus rapide, fonctionne hors ligne\nDistilBERT: Plus précis, nécessite plus de ressources"
         )
 
