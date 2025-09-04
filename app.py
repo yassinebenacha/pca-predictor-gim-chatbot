@@ -97,6 +97,10 @@ class PCAStreamlitApp:
         self.pipeline = PCAMLPipeline()
         self.gim_chatbot = GIMChatbot()
 
+        # Configuration par défaut
+        self.backend = "randomforest"  # Par défaut
+        self.hf_repo = None
+
         # Initialisation du state
         if 'prediction_history' not in st.session_state:
             st.session_state.prediction_history = []
@@ -110,28 +114,51 @@ class PCAStreamlitApp:
         if 'quick_gim_question' not in st.session_state:
             st.session_state.quick_gim_question = None
     
-    def load_model(self) -> bool:
+    def load_model(self, backend: str = None, hf_repo: str = None) -> bool:
         """
         Charge le modèle de prédiction
-        
+
+        Args:
+            backend (str): Type de modèle ('randomforest' ou 'distilbert')
+            hf_repo (str): Repository Hugging Face pour DistilBERT (optionnel)
+
         Returns:
             bool: True si le modèle est chargé avec succès
         """
+        if backend:
+            self.backend = backend
+        if hf_repo:
+            self.hf_repo = hf_repo
+
         try:
-            if not st.session_state.model_loaded:
-                with st.spinner("Chargement du modèle..."):
-                    self.predictor = PCAPredictor()
+            cache_key = f"{self.backend}_{self.hf_repo or 'local'}"
+            if not st.session_state.get(f"model_loaded_{cache_key}", False):
+                with st.spinner(f"Chargement du modèle {self.backend.upper()}..."):
+                    self.predictor = PCAPredictor(
+                        backend=self.backend,
+                        checkpoint_dir="distilbert_pca_model",
+                        hf_repo=self.hf_repo
+                    )
                     self.predictor.load_model()
-                    st.session_state.model_loaded = True
-                st.success("✅ Modèle chargé avec succès!")
+                    st.session_state[f"model_loaded_{cache_key}"] = True
+                st.success(f"✅ Modèle {self.backend.upper()} chargé avec succès!")
             else:
-                self.predictor = PCAPredictor()
+                self.predictor = PCAPredictor(
+                    backend=self.backend,
+                    checkpoint_dir="distilbert_pca_model",
+                    hf_repo=self.hf_repo
+                )
                 self.predictor.load_model()
             return True
         except Exception as e:
-            st.error(f"❌ Erreur lors du chargement du modèle: {e}")
-            st.info("💡 Assurez-vous d'avoir entraîné le modèle avec `python main.py --action train`")
-            return False
+            # Fallback vers RandomForest si DistilBERT échoue
+            if self.backend == "distilbert":
+                st.warning("⚠️ Modèle DistilBERT non disponible, utilisation du modèle RandomForest")
+                return self.load_model("randomforest")
+            else:
+                st.error(f"❌ Erreur lors du chargement du modèle: {e}")
+                st.info("💡 Assurez-vous d'avoir entraîné le modèle avec `python main.py --action train`")
+                return False
     
     def render_header(self):
         """Affiche l'en-tête de l'application"""
@@ -152,8 +179,50 @@ class PCAStreamlitApp:
     
     def render_sidebar(self):
         """Affiche la barre latérale avec les informations du modèle"""
+        st.sidebar.header("🤖 Configuration du Modèle")
+
+        # Choix du backend
+        backend_options = {
+            "randomforest": "🌲 RandomForest (Rapide)",
+            "distilbert": "🧠 DistilBERT (Précis)"
+        }
+
+        selected_backend = st.sidebar.selectbox(
+            "Type de modèle",
+            options=list(backend_options.keys()),
+            format_func=lambda x: backend_options[x],
+            index=0 if self.backend == "randomforest" else 1,
+            help="RandomForest: Plus rapide, fonctionne hors ligne\nDistilBERT: Plus précis, nécessite plus de ressources"
+        )
+
+        # Configuration DistilBERT
+        hf_repo = None
+        if selected_backend == "distilbert":
+            st.sidebar.subheader("⚙️ Configuration DistilBERT")
+            use_hf = st.sidebar.checkbox(
+                "Utiliser Hugging Face Hub",
+                help="Télécharge le modèle depuis Hugging Face si le modèle local n'est pas disponible"
+            )
+
+            if use_hf:
+                hf_repo = st.sidebar.text_input(
+                    "Repository HF (optionnel)",
+                    placeholder="ex: votre-username/pca-distilbert",
+                    help="Laissez vide pour utiliser le modèle par défaut"
+                )
+
+        # Bouton pour charger/recharger le modèle
+        if st.sidebar.button("🔄 Charger le modèle", use_container_width=True):
+            self.load_model(selected_backend, hf_repo)
+
+        # Mise à jour automatique si le backend change
+        if selected_backend != self.backend:
+            self.backend = selected_backend
+            self.hf_repo = hf_repo
+
+        st.sidebar.markdown("---")
         st.sidebar.header("📊 Informations du Modèle")
-        
+
         # Informations sur le modèle
         model_info = self.pipeline.get_model_info()
         
