@@ -152,6 +152,16 @@ data/*.csv
 !data/gim_diagnostic_dataset.csv
 !data/gim_diagnostic_dataset_augmented.csv
 
+# Large model files (too big for GitHub)
+distilbert-base-uncased/
+distilbert_pca_model/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.h5
+*.model
+
 # Temporary files
 temp/
 tmp/
